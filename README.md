@@ -1,15 +1,23 @@
-<p align="center">
-
 # 💫 About Me
-🔭 I’m currently working on Dynamic Traffic Signal<br>
-🌱 I’m currently learning Chart.js, API, Frontend and AI/ML<br>
+<div align="center">
+
+🔭 I'm currently working on Dynamic Traffic Signal<br>
+🌱 I'm currently learning Chart.js, API, Frontend and AI/ML<br>
 ⚡ Fun fact: I am a consistent jogger, love to do 5k daily.
 
+</div>
+
 ## 🌐 Socials
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiwari07)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Nervous-Champion-416/)
 
+</div>
+
 # 💻 Tech Stack
+<div align="center">
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -35,19 +43,41 @@
 ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat&logo=tampermonkey&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
 
+</div>
+
 # 📊 GitHub Stats
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=SanTiwari07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SanTiwari07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanTiwari07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
+
 ## 🏆 GitHub Trophies
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=SanTiwari07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+</div>
+
 ### 🔝 Top Contributed Repo
+<div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=SanTiwari07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🎮 Pac-Man contribution animation
-![Pacman contribution graph](https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/dist/pacman-contribution-graph.svg)
+</div>
 
+### 🎮 GitHub Activity Graph
+<div align="center">
 
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanTiwari07&theme=react-dark)
+
+</div>
+
+### 🐍 Contribution Snake
+<div align="center">
+
+![Snake animation](https://github.com/SanTiwari07/SanTiwari07/blob/output/github-contribution-grid-snake.svg)
+
+</div>
