@@ -1,7 +1,5 @@
 
 <div align="left">
-
-# 💫 About Me
 🎓 Second-year **Electronics & Telecommunication Engineering** student at PICT<br>
 🔭 Currently working on **Dynamic Traffic Signal** project<br>
 🌱 Learning **Chart.js, APIs, Frontend Development, AI/ML**<br>
