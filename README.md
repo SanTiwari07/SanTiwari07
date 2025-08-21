@@ -1,4 +1,4 @@
-
+## 💫 About Me
 <div align="left">
 🎓 Second-year **Electronics & Telecommunication Engineering** student at PICT<br>
 🔭 Currently working on **Dynamic Traffic Signal** project<br>
