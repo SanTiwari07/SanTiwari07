@@ -16,7 +16,7 @@
 </div>
 
 # 💻 Tech Stack
-<div align="center">
+<div align="left">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
