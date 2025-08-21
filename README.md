@@ -1,9 +1,16 @@
 # 💫 About Me
 <div align="left">
 
-🔭 I'm currently working on Dynamic Traffic Signal<br>
-🌱 I'm currently learning Chart.js, API, Frontend and AI/ML<br>
-⚡ Fun fact: I am a consistent jogger, love to do 5k daily.
+# 💫 About Me
+🎓 Second-year **Electronics & Telecommunication Engineering** student at PICT<br>
+🔭 Currently working on **Dynamic Traffic Signal** project<br>
+🌱 Learning **Chart.js, APIs, Frontend Development, AI/ML**<br>
+💻 Interested in **Electronics, Embedded Systems, and Robotics**<br>
+🎨 Enjoy **3D modeling (Blender), UI/UX Design, and Creative Projects**<br>
+🏃‍♂️ Consistent jogger — love to complete **5k daily**<br>
+📚 Passionate about learning **new programming languages and frameworks**<br>
+⚡ Fun fact: I enjoy building small gadgets, experimenting with **Arduino**, and **gaming** in free time
+
 
 </div>
 
