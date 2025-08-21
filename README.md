@@ -5,8 +5,6 @@
 🌱 Learning <b>Chart.js, APIs, Frontend Development, AI/ML</b><br>
 💻 Interested in **Electronics, Embedded Systems, and Robotics**<br>
 🏃‍♂️ Consistent jogger — love to complete <b>5k daily</b><br>
-⚡ Fun fact: I enjoy building small gadgets, experimenting with **Arduino**, and **gaming** in free time
-
 
 </div>
 
