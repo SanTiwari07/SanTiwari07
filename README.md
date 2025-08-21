@@ -1,5 +1,5 @@
 # 💫 About Me
-<div align="center">
+<div align="left">
 
 🔭 I'm currently working on Dynamic Traffic Signal<br>
 🌱 I'm currently learning Chart.js, API, Frontend and AI/ML<br>
