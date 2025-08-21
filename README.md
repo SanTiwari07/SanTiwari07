@@ -47,7 +47,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SanTiwari07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🎮 Pac-Man contribution animation
-![Pacman contribution graph](https://raw.githubusercontent.com/SanTiwari07/REPO_NAME/output/dist/pacman-contribution-graph.svg)
+![Pacman contribution graph](https://raw.githubusercontent.com/SanTiwari07/https://github.com/SanTiwari07/SanTiwari07/tree/main/.github/workflows/output/dist/pacman-contribution-graph.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
