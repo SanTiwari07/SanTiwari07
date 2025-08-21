@@ -1,10 +1,10 @@
 ## 💫 About Me
 <div align="left">
-🎓 Second-year **Electronics & Telecommunication Engineering** student at PICT<br>
+🎓 Second-year <b>ENTC</b> student at PICT<br>
 🔭 Currently working on **Dynamic Traffic Signal** project<br>
 🌱 Learning **Chart.js, APIs, Frontend Development, AI/ML**<br>
 💻 Interested in **Electronics, Embedded Systems, and Robotics**<br>
-🏃‍♂️ Consistent jogger — love to complete **5k daily**<br>
+🏃‍♂️ Consistent jogger — love to complete <b>5k daily</b><br>
 ⚡ Fun fact: I enjoy building small gadgets, experimenting with **Arduino**, and **gaming** in free time
 
 
