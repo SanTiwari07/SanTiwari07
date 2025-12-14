@@ -1,7 +1,7 @@
 ## 💫 About Me
 <div align="left">
 🎓 Second-year <b>ENTC</b> student at PICT<br>
-🔭 Currently working on <b>Dynamic Traffic Signal</b> project<br>
+🔭 Currently working on <b>Python Projects to optimise my work</b> project<br>
 🌱 Learning <b>Chart.js, APIs, Frontend Development, AI/ML</b><br>
 🏃‍♂️ Consistent jogger — love to complete <b>5k daily</b><br>
 </div>
