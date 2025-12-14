@@ -15,8 +15,8 @@
 
 </div>
 
-# 💻 Tech Stack
-<div align="left" img width="40%">
+# 💻 Tech Stack Used
+<div align="left" img width="60%">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
