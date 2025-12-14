@@ -54,13 +54,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&layout=compact&theme=dark&langs_count=6)
-
-
-</div>
 
 ## 🔝 Top Contributed Repo
 <div align="center">
