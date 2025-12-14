@@ -46,9 +46,15 @@
 </div>
 ## 📊 GitHub Stats
 
-| |
-|---|
-| <img width="40%" src="https://github-readme-stats.vercel.app/api?username=SanTiwari07&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" /> <br/><br/> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&layout=compact&theme=dark&hide_border=true&langs_count=6" /> |
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=SanTiwari07&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+
+</div>
 
 
 
