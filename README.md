@@ -4,8 +4,9 @@
 🔭 Currently working on <b>Dynamic Traffic Signal</b> project<br>
 🌱 Learning <b>Chart.js, APIs, Frontend Development, AI/ML</b><br>
 🏃‍♂️ Consistent jogger — love to complete <b>5k daily</b><br>
-
 </div>
+
+---
 
 ## 🌐 Socials
 <div align="left">
@@ -15,7 +16,9 @@
 
 </div>
 
-# 💻 Tech Stack Used
+---
+
+## 💻 Tech Stack Used
 <div align="left">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -45,60 +48,50 @@
 
 </div>
 
+---
 
 ## 📄 Profile Summary
-
 <div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=dark)
-
-<br/><br/>
-
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=dark" />
 </div>
 
-
+---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=SanTiwari07&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=SanTiwari07&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 
-<br/><br/>
+  <br/><br/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 
 </div>
 
-
-
-
+---
 
 ## 🔝 Top Contributed Repo
 <div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=SanTiwari07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+  <img width="85%" src="https://github-contributor-stats.vercel.app/api?username=SanTiwari07&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
+---
+
 ## 📈 Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanTiwari07&theme=github-dark)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanTiwari07&theme=github-dark" />
 
+---
 
-## 😋 PacMan   
+## 😋 PacMan
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
+---
 
 ## 🐍 Snake Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
