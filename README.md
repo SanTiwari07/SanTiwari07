@@ -44,7 +44,7 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
 
 </div>
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
