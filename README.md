@@ -44,7 +44,9 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
 
 </div>
-# 📊 GitHub Stats
+
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -55,7 +57,6 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 
 </div>
-
 
 
 
