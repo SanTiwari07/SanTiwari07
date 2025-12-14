@@ -57,7 +57,8 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=SanTiwari07&theme=onedark&column=4&margin-w=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&layout=compact&theme=dark&langs_count=6)
+
 
 </div>
 
