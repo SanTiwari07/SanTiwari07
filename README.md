@@ -81,3 +81,7 @@
 </picture>
 
 </div>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=dark)
+
+
