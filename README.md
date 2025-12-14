@@ -45,14 +45,17 @@
 
 </div>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SanTiwari07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SanTiwari07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=SanTiwari07&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+
+<img src="https://streak-stats.demolab.com?user=SanTiwari07&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 
 </div>
+
 
 
 ## 🔝 Top Contributed Repo
