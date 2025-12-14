@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=SanTiwari07&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=dark)
 
 <br/><br/>
 
@@ -82,6 +82,6 @@
 
 </div>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=dark)
+
 
 
