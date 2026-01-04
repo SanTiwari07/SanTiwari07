@@ -57,19 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=SanTiwari07&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
-
-  <br/><br/>
-
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTiwari07&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
 ## 🔝 Top Contributed Repo
 <div align="center">
   <img width="85%" src="https://github-contributor-stats.vercel.app/api?username=SanTiwari07&limit=5&theme=dark&combine_all_yearly_contributions=true" />
