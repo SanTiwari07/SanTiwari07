@@ -51,7 +51,9 @@
 
 ### 📊 Data Science & Notebooks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,jupyter,googlecolab" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter" />
+  <img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="48"/>
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48"/>
 </div>
 
 ---
@@ -81,6 +83,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=blender,canva,figma" />
 </div>
+
 
 
 ---
