@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=55&duration=1&pause=1000&color=0575E6&center=true&vCenter=true&width=1000&lines=SANSKAR+TIWARI;ENTC+ENGINEER" alt="Glitch Header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Sanskar%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00d2ff&center=true&vCenter=true&width=650&lines=Hello!,+I+am+Sanskar+Tiwari;ENTC+Student+at+PICT;Mastering+Data+Structures+%26+AI+Algorithms;Eager+to+Explore+New+Innovations" alt="Typing SVG" />
 
 <br>
