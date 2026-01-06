@@ -20,14 +20,15 @@
 </a>
 
 <a href="https://www.youtube.com/@sanskarmakesstuff">
-  <img src="https://cdn.simpleicons.org/youtube/ff0000" height="42"/>
+  <img src="https://img.shields.io/badge/-YouTube-white?style=flat-square&logo=youtube&logoColor=FF0000" height="42"/>
 </a>
 
 <a href="https://www.reddit.com/user/Nervous-Champion-416/">
-  <img src="https://cdn.simpleicons.org/reddit/ff4500" height="42"/>
+  <img src="https://img.shields.io/badge/-Reddit-white?style=flat-square&logo=reddit&logoColor=FF4500" height="42"/>
 </a>
 
 </div>
+
 
 
 
