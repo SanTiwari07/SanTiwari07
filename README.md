@@ -12,14 +12,14 @@
 <br><br>
 
 <b>Let's Connect</b>
-<br><br>
+<br>
 <div align="center">
   <a href="https://linkedin.com/in/santiwari07">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin-1.png?raw=true" width="100" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/sanskarmakesstuff/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+    <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/instagram-1.webp?raw=true" width="100" />
   </a>
 </div>
 
@@ -55,7 +55,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%20Analytics&fontSize=25&fontColor=ffffff" width="100%" />
 <br><br>
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=tokyonight" />
+
+<img src="https://ssr-contributions-svg.vercel.app/_/SanTiwari07?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" width="100%" />
 
 <br><br>
 
