@@ -36,8 +36,9 @@
 ## 💻 Tech Stack Used
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,opencv,sklearn,tensorflow,pytorch,numpy,pandas,jupyter,html,css,js,arduino,raspberrypi,git,github,vscode,linux,npm&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,opencv,sklearn,tensorflow,pytorch,html,css,js,arduino,raspberrypi,git,github,vscode,linux,npm,docker,blender,figma&perline=7" />
 </div>
+
 
 
 
