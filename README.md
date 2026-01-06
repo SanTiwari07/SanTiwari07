@@ -33,57 +33,30 @@
 
 
 ---
-## Tech Stack
-
-### Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java&perline=8" />
+
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&perline=7" />
+
+<!-- AI / ML -->
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,pytorch&perline=7" />
+
+<!-- Data Science -->
+<img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&perline=7" />
+
+<!-- Web -->
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=7" />
+
+<!-- Embedded -->
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=7" />
+
+<!-- Dev Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,docker&perline=7" />
+
+<!-- Creative -->
+<img src="https://skillicons.dev/icons?i=blender,canva,figma&perline=7" />
+
 </div>
-
-<br/>
-
-### AI / Machine Learning & Computer Vision
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,pytorch&perline=8" />
-</div>
-
-<br/>
-
-### Data Science & Notebooks
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&perline=8" />
-  <img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="44"/>
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="44"/>
-</div>
-
-<br/>
-
-### Web Development
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js&perline=8" />
-</div>
-
-<br/>
-
-### Embedded Systems & IoT
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,esp32,raspberrypi&perline=8" />
-</div>
-
-<br/>
-
-### Developer Tools & DevOps
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,docker,githubactions&perline=8" />
-</div>
-
-<br/>
-
-### Creative & Design Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=blender,canva,figma&perline=8" />
-</div>
-
 
 
 ---
