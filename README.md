@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Sanskar%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00d2ff&center=true&vCenter=true&width=650&lines=Hello!,+I+am+Sanskar+Tiwari;ENTC+Student+at+PICT;Mastering+Data+Structures+%26+AI+Algorithms;Eager+to+Explore+New+Innovations" alt="Typing SVG" />
 
 <br>
@@ -15,11 +16,11 @@
 <br>
 <div align="center">
   <a href="https://linkedin.com/in/santiwari07">
-    <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin-1.png?raw=true" width="100" />
+    <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif?raw=true" width="100" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/sanskarmakesstuff/">
-    <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/instagram-1.webp?raw=true" width="100" />
+    <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/instagram.gif?raw=true" width="100" />
   </a>
 </div>
 
@@ -68,5 +69,7 @@
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=0575E6" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
