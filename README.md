@@ -43,4 +43,30 @@
       <h3>Smart Traffic Flow Analyzer</h3>
       <p>An intelligent system using <b>Python & OpenCV</b> to analyze traffic density in real-time and optimize signal timings.</p>
       <a href="https://github.com/SanTiwari07/Smart-Traffic-Flow-Analyzer">
-        <img src="https://img.shields.io/badge/View_Code-0575E6?style=for-the-badge&logo=github&
+        <img src="https://img.shields.io/badge/View_Code-0575E6?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/SanTiwari07/Smart-Traffic-Flow-Analyzer?style=social" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%20Analytics&fontSize=25&fontColor=ffffff" width="100%" />
+<br><br>
+
+<img src="https://ssr-contributions-svg.vercel.app/_/SanTiwari07?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" width="100%" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph.svg">
+</picture>
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=0575E6" alt="Profile Views" />
+
+</div>
