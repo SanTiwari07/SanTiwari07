@@ -1,12 +1,10 @@
 <div align="center">
 
-  <!-- Header -->
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Sanskar%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
     width="100%"
   />
 
-  <!-- Typing SVG -->
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00d2ff&center=true&vCenter=true&width=650&lines=Hello!,+I+am+Sanskar+Tiwari;ENTC+Student+at+PICT;Mastering+Data+Structures+%26+AI+Algorithms;Eager+to+Explore+New+Innovations"
     alt="Typing SVG"
@@ -14,7 +12,6 @@
 
   <br>
 
-  <!-- Portfolio -->
   <a href="https://sanskar-portfolio-dusky.vercel.app/">
     <img
       src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0f0c29?style=for-the-badge&logo=vercel&logoColor=white"
@@ -24,7 +21,6 @@
 
   <br><br>
 
-  <!-- Connect -->
   <b>Let's Connect</b>
   <br>
 
@@ -48,7 +44,6 @@
 
   <br><br>
 
-  <!-- Technical Arsenal -->
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Technical%20Arsenal&fontSize=25&fontColor=ffffff"
     width="100%"
@@ -62,7 +57,6 @@
 
   <br><br>
 
-  <!-- Flagship Project -->
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Flagship%20Project&fontSize=25&fontColor=ffffff"
     width="100%"
@@ -78,22 +72,18 @@
           alt="Traffic Icon"
         />
       </td>
-
       <td width="80%">
         <h3>Smart Traffic Flow Analyzer</h3>
         <p>
           An intelligent system using <b>Python & OpenCV</b> to analyze traffic
           density in real-time and optimize signal timings.
         </p>
-
         <a href="https://github.com/SanTiwari07/Smart-Traffic-Flow-Analyzer">
           <img
             src="https://img.shields.io/badge/View_Code-0575E6?style=for-the-badge&logo=github&logoColor=white"
           />
         </a>
-
         &nbsp;
-
         <img
           src="https://img.shields.io/github/stars/SanTiwari07/Smart-Traffic-Flow-Analyzer?style=social"
         />
@@ -103,7 +93,6 @@
 
   <br>
 
-  <!-- GitHub 3D Contribution -->
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%203D%20Contribution&fontSize=25&fontColor=ffffff"
     width="100%"
@@ -118,7 +107,6 @@
 
   <br><br>
 
-  <!-- Pacman Contribution -->
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Pacman%20Live%20Game&fontSize=25&fontColor=ffffff"
     width="100%"
@@ -144,7 +132,6 @@
 
   <br>
 
-  <!-- Profile Views -->
   <img
     src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=0575E6"
     alt="Profile Views"
