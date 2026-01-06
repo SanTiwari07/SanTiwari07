@@ -33,30 +33,12 @@
 
 
 ---
+## 💻 Tech Stack Used
+
 <div align="left">
-
-<!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java&perline=7" />
-
-<!-- AI / ML -->
-<img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,pytorch&perline=7" />
-
-<!-- Data Science -->
-<img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&perline=7" />
-
-<!-- Web -->
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=7" />
-
-<!-- Embedded -->
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=7" />
-
-<!-- Dev Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,docker&perline=7" />
-
-<!-- Creative -->
-<img src="https://skillicons.dev/icons?i=blender,canva,figma&perline=7" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,opencv,sklearn,tensorflow,pytorch,numpy,pandas,jupyter,html,css,js,arduino,raspberrypi,git,github,vscode,linux,npm&perline=7" />
 </div>
+
 
 
 ---
