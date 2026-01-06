@@ -12,22 +12,23 @@
 <div align="left">
 
 <a href="https://linkedin.com/in/santiwari07">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
 
 <a href="https://www.instagram.com/sanskarmakesstuff/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
 </a>
 
 <a href="https://www.youtube.com/@sanskarmakesstuff">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40"/>
+  <img src="https://cdn.simpleicons.org/youtube/ff0000" height="42"/>
 </a>
 
 <a href="https://www.reddit.com/user/Nervous-Champion-416/">
-  <img src="https://cdn.simpleicons.org/reddit/FF4500" height="40"/>
+  <img src="https://cdn.simpleicons.org/reddit/ff4500" height="42"/>
 </a>
 
 </div>
+
 
 
 
