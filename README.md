@@ -33,55 +33,55 @@
 
 
 ---
-## 💻 Tech Stack
+## Tech Stack
 
-### 🧠 Programming Languages
+### Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java&perline=8" />
 </div>
 
----
+<br/>
 
-### 🤖 AI / Machine Learning & Computer Vision
+### AI / Machine Learning & Computer Vision
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,pytorch&perline=8" />
 </div>
 
----
+<br/>
 
-### 📊 Data Science & Notebooks
+### Data Science & Notebooks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter" />
-  <img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="48"/>
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&perline=8" />
+  <img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="44"/>
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="44"/>
 </div>
 
----
+<br/>
 
-### 🌐 Web Development
+### Web Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=8" />
 </div>
 
----
+<br/>
 
-### 🔌 Embedded Systems & IoT
+### Embedded Systems & IoT
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,esp32,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino,esp32,raspberrypi&perline=8" />
 </div>
 
----
+<br/>
 
-### 🛠️ Developer Tools & DevOps
+### Developer Tools & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,docker,githubactions&perline=8" />
 </div>
 
----
+<br/>
 
-### 🎨 Creative & Design Tools
+### Creative & Design Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=blender,canva,figma" />
+  <img src="https://skillicons.dev/icons?i=blender,canva,figma&perline=8" />
 </div>
 
 
