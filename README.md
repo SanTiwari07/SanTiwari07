@@ -72,3 +72,30 @@
 <img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=0575E6" alt="Profile Views" />
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Flagship%20Project&fontSize=25&fontColor=ffffff" width="100%" />
+<br><br>
+
+<div align="center">
+<table border="0" width="95%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="120" align="center" valign="middle">
+       <img src="https://cdn-icons-png.flaticon.com/512/3256/3256783.png" width="90" alt="Traffic AI Icon">
+    </td>
+    <td valign="middle" style="padding-left: 15px;">
+       <h3 align="left" style="margin-bottom: 5px;">🚦 Smart Traffic Flow Analyzer</h3>
+       <p align="left" style="margin-top: 0px;">
+         An intelligent system using <b>Python & OpenCV</b> to analyze traffic density in real-time and optimize signal timings.
+       </p>
+       <p align="left">
+         <img src="https://img.shields.io/badge/Tech-Python_|_OpenCV_|_Machine_Learning-0072ff?style=flat-square&logo=python&logoColor=white" />
+         <img src="https://img.shields.io/badge/Type-Hackathon_Winner-success?style=flat-square" />
+       </p>
+       <p align="left">
+          <a href="https://github.com/SanTiwari07/Smart-Traffic-Flow-Analyzer">
+            <img src="https://img.shields.io/badge/View_Project_Code-0575E6?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+       </p>
+    </td>
+  </tr>
+</table>
+</div>
