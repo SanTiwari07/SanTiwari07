@@ -2,23 +2,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Sanskar%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0072ff&center=true&vCenter=true&width=600&lines=ENTC+Student+at+PICT;Building+Smart+Traffic+Solutions;Exploring+AI+%26+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0072ff&center=true&vCenter=true&width=650&lines=Hello!,+I+am+Sanskar+Tiwari;ENTC+Student+at+PICT;Mastering+Data+Structures+%26+AI+Algorithms;Eager+to+Explore+New+Innovations" alt="Typing SVG" />
 
 <br>
 
 <a href="https://sanskar-portfolio-dusky.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-black?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/santiwari07">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/sanskarmakesstuff/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-black?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
 </a>
 
 <br><br>
+
+<b>Let's Connect 🤝</b>
+<br><br>
+<div align="center">
+  <a href="https://linkedin.com/in/santiwari07">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sanskarmakesstuff/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</div>
+
+<br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=SanTiwari07&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
