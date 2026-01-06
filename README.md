@@ -86,5 +86,5 @@
   <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=<your-SanTiwari07>)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=SanTiwari07)
 
