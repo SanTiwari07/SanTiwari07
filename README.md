@@ -11,7 +11,7 @@
 
 <br><br>
 
-<b>Let's Connect 🤝</b>
+<b>Let's Connect</b>
 <br><br>
 <div align="center">
   <a href="https://linkedin.com/in/santiwari07">
@@ -40,7 +40,7 @@
       <img src="https://img.icons8.com/color/96/000000/traffic-light.png" alt="Traffic Icon" />
     </td>
     <td width="80%">
-      <h3>🚦 Smart Traffic Flow Analyzer</h3>
+      <h3>Smart Traffic Flow Analyzer</h3>
       <p>An intelligent system using <b>Python & OpenCV</b> to analyze traffic density in real-time and optimize signal timings.</p>
       <a href="https://github.com/SanTiwari07/Smart-Traffic-Flow-Analyzer">
         <img src="https://img.shields.io/badge/View_Code-0575E6?style=for-the-badge&logo=github&logoColor=white" />
