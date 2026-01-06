@@ -53,11 +53,14 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%20Analytics&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%203D%20Contribution&fontSize=25&fontColor=ffffff" width="100%" />
 <br><br>
 
-<img src="https://ssr-contributions-svg.vercel.app/_/SanTiwari07?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" width="100%" />
+<img src="https://ssr-contributions-svg.vercel.app/_/SanTiwari07?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" width="85%" />
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Pacman%20Live%20Game&fontSize=25&fontColor=ffffff" width="100%" />
 <br><br>
 
 <picture>
