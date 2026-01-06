@@ -1,28 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=I+am+Sanskar+Tiwari;ENTC+student+at+PICT;Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=I+am+Sanskar+Tiwari;ENTC+student+at+PICT;Learning+New+Tech" alt="Typing SVG" />
+
+<br><br>
+
+Second-year <b>ENTC</b> student at <b>PICT</b><br>
+Currently working on <b>Python Projects to optimise workflow</b><br>
+Consistent jogger — <b>5k daily</b>
 
 <br>
 
-<a href="https://linkedin.com/in/santiwari07">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/sanskarmakesstuff/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<div align="center">
+  <a href="https://linkedin.com/in/santiwari07">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/sanskarmakesstuff/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</div>
+
+<br>
+
+<h3>Tech Stack Used</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,opencv,sklearn,tensorflow,pytorch,html,css,js,arduino,raspberrypi,git,github,vscode,linux,npm,docker,blender,figma&perline=11" />
 
 <br><br>
 
-👋 <b>Hi there!</b><br>
-🎓 Second-year <b>ENTC</b> student at <b>PICT</b><br>
-🔭 Working on <b>Python Projects to optimise my work</b><br>
-🏃‍♂️ Consistent jogger — <b>5k daily</b>
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=dark" />
 
-<br><br>
-
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=dark" />
-
-<br><br>
+<br>
 
 <img width="85%" src="https://github-contributor-stats.vercel.app/api?username=SanTiwari07&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
@@ -35,7 +41,6 @@
 </picture>
 
 <br>
-
 <img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=blueviolet" alt="Profile Views" />
 
 </div>
