@@ -73,13 +73,8 @@
 <img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=0575E6" alt="Profile Views" />
 
 </div>
-## 📊 GitHub Stats
 
-![GitHub Followers](https://img.shields.io/github/followers/SanTiwari07?label=Followers&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/SanTiwari07?label=Total%20Stars&style=for-the-badge)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SanTiwari07&theme=github-dark&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanTiwari07&theme=github-dark)
 
 
