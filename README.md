@@ -61,6 +61,24 @@
 
 <br><br>
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=radical" 
+    width="100%" 
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/SanTiwari07?theme=github-dark&cardType=github" 
+    height="180"
+  />
+</p>
+
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Pacman%20Live%20Game&fontSize=25&fontColor=ffffff" width="100%" />
 <br><br>
 
