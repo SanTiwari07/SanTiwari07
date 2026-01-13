@@ -54,35 +54,22 @@
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%203D%20Contribution&fontSize=25&fontColor=ffffff" width="100%" />
-<br>
-<br>
+<br><br>
 
 <img src="https://ssr-contributions-svg.vercel.app/_/SanTiwari07?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" width="85%" />
 
-<br><p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details
-    ?username=SanTiwari07
-    &theme=github_dark"
-    width="85%"
-  />
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=github_dark" width="85%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img 
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/SanTiwari07
-    ?theme=github-dark
-    &cardType=github
-    &bg_color=0D1117
-    &border_color=0D1117
-    &text_color=c9d1d9
-    &title_color=58a6ff
-    &icon_color=58a6ff"
-    height="150"
-  />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SanTiwari07?theme=github-dark&cardType=github&bg_color=0D1117&border_color=0D1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff" height="150" />
 </p>
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Pacman%20Live%20Game&fontSize=25&fontColor=ffffff" width="100%" />
@@ -95,11 +82,7 @@
 </picture>
 
 <br>
+
 <img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=0575E6" alt="Profile Views" />
 
 </div>
-
-
-
-
-
