@@ -10,25 +10,19 @@
 </a>
 
 <br><br>
-<div align="center" style="
-  margin: 40px auto;
-  padding: 22px 28px;
-  max-width: 720px;
-  background: linear-gradient(180deg, rgba(0,114,255,0.08), rgba(0,0,0,0));
-  border: 1px solid rgba(0,198,255,0.35);
-  border-radius: 14px;
-  box-shadow: 0 0 25px rgba(0,198,255,0.15);
-">
 
-<p style="color:#e6f7ff; font-size:16px; line-height:1.7;">
-ENTC Engineering student who learns by building<br>
-Curious about systems, problem-solving, and Machine Learning<br>
-Building real-world projects with Software & Hardware<br>
-Learning daily, aiming to create impactful solutions
-</p>
-
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center" width="720" style="border: 1px solid #00c6ff; border-radius: 12px; padding: 20px; background-color: rgba(0,198,255,0.05);">
+      <p style="color: #00d2ff; font-size: 16px; font-family: sans-serif; line-height: 1.8; margin: 0;">
+        ENTC Engineering student who learns by building<br>
+        Curious about systems, problem-solving, and Machine Learning<br>
+        Building real-world projects with Software & Hardware<br>
+        Learning daily, aiming to create impactful solutions
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 <b>Let's Connect</b>
