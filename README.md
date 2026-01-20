@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Sanskar%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00d2ff&center=true&vCenter=true&width=650&lines=Hello!,+I+am+Sanskar+Tiwari;ENTC+Student+at+PICT;Mastering+Data+Structures+%26+AI+Algorithms;Eager+to+Explore+New+Innovations" alt="Typing SVG" />
+
 
 <br>
 
@@ -11,18 +11,7 @@
 
 <br><br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="720" style="border: 1px solid #00c6ff; border-radius: 12px; padding: 20px; background-color: rgba(0,198,255,0.05);">
-      <p style="color: #00d2ff; font-size: 16px; font-family: sans-serif; line-height: 1.8; margin: 0;">
-        ENTC Engineering student who learns by building<br>
-        Curious about systems, problem-solving, and Machine Learning<br>
-        Building real-world projects with Software & Hardware<br>
-        Learning daily, aiming to create impactful solutions
-      </p>
-    </td>
-  </tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&multiline=true&width=900&height=150&lines=Built+Computer+Vision+projects+using+Python+and+OpenCV;Worked+on+traffic+analysis+%26+vehicle+detection;Developed+hardware+projects+using+Arduino+and+ESP32;Exploring+ML%2C+problem+solving+and+more)](https://git.io/typing-svg)
 
 
 <b>Let's Connect</b>
