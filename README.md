@@ -10,7 +10,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&multiline=true&width=900&height=150&lines=Building+AI-Powered+Solutions+using+Computer+Vision;Developing+Smart+Embedded+Systems+with+Arduino+%26+ESP32;Creating+Real-World+Projects+in+AI%2C+IoT+%26+Automation;Electronics+%26+Telecommunication+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&multiline=true&width=900&height=150&lines=AI+%26+Computer+Vision+Developer;Building+Smart+Systems+with+Python%2C+OpenCV+%26+ESP32;Creating+Real-World+Projects+in+AI%2C+IoT+%26+Automation;Electronics+%26+Telecommunication+Engineering+Student)](https://git.io/typing-svg)
 
 <b>Let's Connect</b>
 
@@ -43,71 +43,61 @@
 <table width="100%">
 <tr>
 <th align="left">Project</th>
-<th align="center">Category</th>
+<th align="left">Tech Stack</th>
 <th align="center">Repository</th>
 </tr>
 
 <tr>
 <td>Smart Traffic Flow Analyzer</td>
-<td align="center">Computer Vision</td>
+<td>Python • OpenCV • YOLO</td>
 <td align="center"><a href="https://github.com/SanTiwari07/Smart-Traffic-Flow-Analyzer">View</a></td>
 </tr>
 
 <tr>
 <td>Pothole Detection</td>
-<td align="center">Computer Vision</td>
+<td>Python • OpenCV</td>
 <td align="center"><a href="https://github.com/SanTiwari07/PotHoleDetection">View</a></td>
 </tr>
 
 <tr>
 <td>StockItUp</td>
-<td align="center">Web Development</td>
+<td>HTML • CSS • JavaScript • Finnhub API</td>
 <td align="center"><a href="https://github.com/SanTiwari07/CodeZero-StockItUp">View</a></td>
 </tr>
 
 <tr>
 <td>Text2Reel Generator</td>
-<td align="center">Artificial Intelligence</td>
+<td>Python • AI • Video Processing</td>
 <td align="center"><a href="https://github.com/SanTiwari07/Text2ReelGenerator">View</a></td>
 </tr>
 
 <tr>
 <td>KrishiSaarthi</td>
-<td align="center">AgriTech</td>
+<td>AI • Agriculture Technology</td>
 <td align="center"><a href="https://github.com/SanTiwari07/KrishiSaarthi">View</a></td>
 </tr>
 
 <tr>
 <td>SmartPot</td>
-<td align="center">IoT</td>
+<td>ESP32 • Sensors • IoT</td>
 <td align="center"><a href="https://github.com/SanTiwari07/SmartPot">View</a></td>
 </tr>
 
 <tr>
 <td>Smart Dustbin</td>
-<td align="center">IoT</td>
+<td>Arduino • Sensors • Automation</td>
 <td align="center"><a href="https://github.com/SanTiwari07/IIDTL-Project-Smart-DustBin">View</a></td>
 </tr>
 
 <tr>
 <td>UniFit Health</td>
-<td align="center">HealthTech</td>
+<td>HealthTech • Web Application</td>
 <td align="center"><a href="https://github.com/SanTiwari07/UniFit-Health">View</a></td>
 </tr>
 
 </table>
 
-<br>
-
-
-
-
-
-
-
-
-
-<br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%203D%20Contribution&fontSize=25&fontColor=ffffff" width="100%" />
+<br><br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%203D%20Contribution&fontSize=25&fontColor=ffffff" width="100%" />
 
 <br><br>
 
