@@ -26,7 +26,7 @@
 
 <br>
 
-<h3>2nd-year ENTC student at PICT, Pune &nbsp;·&nbsp; CGPA 9.42</h3>
+<h3>2nd-year ENTC student at PICT, Pune &nbsp;·&nbsp; CGPA 9.3</h3>
 <h3>Software Engineer Intern at MindstriX Technologies LLP</h3>
 <p>LLM integration &nbsp;·&nbsp; API development &nbsp;·&nbsp; AI R&D</p>
 
