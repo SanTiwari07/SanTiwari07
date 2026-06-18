@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://sanskar-portfolio-dusky.vercel.app/">
+<a href="https://santiwari07.qzz.io/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
 </a>
 &nbsp;
