@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://santiwari07.qzz.io/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Sanskar%20Tiwari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Builder%20%7C%20ENTC%20%40%20PICT%20%2728%20%7C%20CGPA%209.42&descAlignY=58&descSize=17&descColor=d0eaff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Sanskar%20Tiwari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Builder%20%7C%20ENTC%20%40%20PICT%20%2728%20%7C%20CGPA%209.30&descAlignY=58&descSize=17&descColor=d0eaff" width="100%" />
 
 <br>
 
