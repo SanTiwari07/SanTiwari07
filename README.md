@@ -26,19 +26,13 @@
 
 <br>
 
-<h3>3nd-year ENTC student at PICT, Pune &nbsp;·&nbsp; CGPA 9.31</h3>
-<h3>Software Engineer Intern at MindstriX Technologies LLP</h3>
-<p>LLM integration &nbsp;·&nbsp; API development &nbsp;·&nbsp; AI R&D</p>
+<p align="left">I'm a third-year Electronics and Telecommunication Engineering student at PICT, Pune (CGPA 9.31), currently working as a Software Engineer Intern at MindstriX Technologies LLP, where I focus on LLM integration, API development, and AI R&D. I build systems at the intersection of AI, mobile, and real-world impact, from production Gemini Vision pipelines to dual-microcontroller computer vision hardware.</p>
 
-<br>
+<p align="left">My interest lies in Computer Vision, Embedded Systems, and Intelligent Automation. I enjoy building real-world systems that combine software, hardware, and machine learning to solve practical problems, whether that's a pothole-detection rig fusing YOLOv8 with a dual ESP32 architecture, a dynamic traffic signal system that reads live vehicle density, or an AI governance layer for agricultural insurance claims. I believe the best way to learn engineering is by building, experimenting, debugging, and improving real systems, not just studying theory.</p>
 
-<p>I build systems at the intersection of AI, mobile, and real-world impact.<br>
-From production Gemini Vision pipelines to dual-microcontroller computer vision hardware.</p>
+<p align="left">That approach has paid off on the competition circuit: 1st place at TechFiesta '26 (International, Agriculture domain), 1st place in the Agritech domain at HackVenture 2K26, a Runner-Up finish at the Pune Agri International Hackathon, where our AI-powered agricultural governance platform was presented to and recognized by the Maharashtra CM, Agriculture Minister, and Higher & Technical Education Minister, and a Top 3 finish among 600+ teams at VOIS Innovation Marathon 2.0. My Intelligent Pothole Detection System work has also been published as peer-reviewed research with its own DOI.</p>
 
-<br>
-
-<p><strong>Currently building</strong><br>
-AI-native Android systems integrating Gemini API with real-world sensor data.</p>
+<p align="left"><strong>Currently building:</strong> AI-native Android systems integrating the Gemini API with real-world sensor data.</p>
 
 <br>
 
@@ -46,31 +40,31 @@ AI-native Android systems integrating Gemini API with real-world sensor data.</p
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<th>Place</th>
-<th>Competition</th>
-<th>Scope</th>
+<th align="center">Place</th>
+<th align="center">Competition</th>
+<th align="center">Scope</th>
 </tr>
 <tr>
-<td><strong>1st Place</strong></td>
-<td>TechFiesta '26</td>
-<td>International</td>
+<td align="center"><strong>1st Place</strong></td>
+<td align="center">TechFiesta '26</td>
+<td align="center">International</td>
 </tr>
 <tr>
-<td><strong>1st Place</strong> </td>
-<td>HackVenture 2K26</td>
-<td>National</td>
+<td align="center"><strong>1st Place</strong></td>
+<td align="center">HackVenture 2K26</td>
+<td align="center">National</td>
 </tr>
 <tr>
-<td><strong>Runner-Up</strong></td>
-<td>Pune Agri International Hackathon</td>
-<td>International</td>
+<td align="center"><strong>Runner-Up</strong></td>
+<td align="center">Pune Agri International Hackathon</td>
+<td align="center">International</td>
 </tr>
 <tr>
-<td><strong>Top 3</strong></td>
-<td>VOIS Innovation Marathon 2.0 (Vodafone Idea Foundation)</td>
-<td>National</td>
+<td align="center"><strong>Top 3</strong></td>
+<td align="center">VOIS Innovation Marathon 2.0 (Vodafone Idea Foundation)</td>
+<td align="center">National</td>
 </tr>
 </table>
 
@@ -189,9 +183,20 @@ AI-native Android systems integrating Gemini API with real-world sensor data.</p
 
 <br>
 
-<h3>Software Engineer Intern &nbsp;·&nbsp; MindstriX Technologies LLP</h3>
-<p>March 2026 – Present &nbsp;·&nbsp; Remote</p>
-<p>LLM integration &nbsp;·&nbsp; API development &nbsp;·&nbsp; AI R&D</p>
+<table width="100%">
+<tr>
+<th align="center">Role</th>
+<th align="center">Company</th>
+<th align="center">Duration</th>
+<th align="center">Focus Areas</th>
+</tr>
+<tr>
+<td align="center"><strong>Software Engineer Intern</strong></td>
+<td align="center">MindstriX Technologies LLP</td>
+<td align="center">March 2026 – Present (Remote)</td>
+<td align="center">LLM Integration · API Development · AI R&D</td>
+</tr>
+</table>
 
 <br>
 
