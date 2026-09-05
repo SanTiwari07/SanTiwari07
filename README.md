@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Sanskar%20Tiwari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Builder%20%7C%20ENTC%20%40%20PICT%20%2728%20%7C%20CGPA%209.30&descAlignY=58&descSize=17&descColor=d0eaff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Sanskar%20Tiwari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Builder%20%7C%20ENTC%20%40%20PICT%20%2728%20%7C%20CGPA%209.31&descAlignY=58&descSize=17&descColor=d0eaff" width="100%" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&multiline=true&width=900&height=100&lines=TechFiesta+'26+International+Gold+%7C+3x+Hackathon+Podium;LLM+Integration+%40+MindstriX+Technologies+%7C+Building+in+Public;Gemini+API+%7C+Kotlin+%7C+FastAPI+%7C+YOLOv8+%7C+ESP32)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&multiline=true&width=900&height=100&lines=TechFiesta+'26+International+Gold+%7C+4x+Hackathon+Wins;LLM+Integration+%40+MindstriX+Technologies+%7C+Building+in+Public;Gemini+API+%7C+Kotlin+%7C+FastAPI+%7C+YOLOv8+%7C+ESP32)](https://git.io/typing-svg)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-<h3>2nd-year ENTC student at PICT, Pune &nbsp;·&nbsp; CGPA 9.3</h3>
+<h3>3nd-year ENTC student at PICT, Pune &nbsp;·&nbsp; CGPA 9.31</h3>
 <h3>Software Engineer Intern at MindstriX Technologies LLP</h3>
 <p>LLM integration &nbsp;·&nbsp; API development &nbsp;·&nbsp; AI R&D</p>
 
@@ -58,13 +58,18 @@ AI-native Android systems integrating Gemini API with real-world sensor data.</p
 <td>International</td>
 </tr>
 <tr>
+<td><strong>1st Place</strong> </td>
+<td>HackVenture 2K26</td>
+<td>National</td>
+</tr>
+<tr>
 <td><strong>Runner-Up</strong></td>
 <td>Pune Agri International Hackathon</td>
 <td>International</td>
 </tr>
 <tr>
 <td><strong>Top 3</strong></td>
-<td>VOIS Innovation Marathon — Vodafone Idea Foundation</td>
+<td>VOIS Innovation Marathon 2.0 (Vodafone Idea Foundation)</td>
 <td>National</td>
 </tr>
 </table>
@@ -129,40 +134,52 @@ AI-native Android systems integrating Gemini API with real-world sensor data.</p
 <th align="center">Link</th>
 </tr>
 <tr>
+<td align="center"><strong>Aviro</strong></td>
+<td>Invariant-governed AI Finance Controller architecture bridging probabilistic AI systems and deterministic accounting rules, built to guarantee zero unauthorized capital movement and zero false auto-matches.</td>
+<td>Python · Fintech · Rule Engine</td>
+<td align="center"><a href="https://github.com/SanTiwari07/Aviro">View</a></td>
+</tr>
+<tr>
+<td align="center"><strong>Sudarshan</strong></td>
+<td>Android malware analysis and banking threat intelligence platform combining static analysis, Frida-based dynamic sandboxing, deterministic risk scoring, and MITRE ATT&CK mapping, built for CyberShield Hackathon 2026 at IIT Hyderabad.</td>
+<td>Python · Frida · Androguard · YARA</td>
+<td align="center"><a href="https://github.com/SanTiwari07/Sudarshan">View</a></td>
+</tr>
+<tr>
+<td align="center"><strong>Bhaava</strong></td>
+<td>In-development AI-native Android app integrating the Gemini API with real-world sensor data, the current "building in public" project.</td>
+<td>Kotlin · Android · Gemini API</td>
+<td align="center"><a href="https://github.com/SanTiwari07/Bhaava">View</a></td>
+</tr>
+<tr>
 <td align="center"><strong>IPDS v2.0</strong></td>
-<td>Dual ESP32 pothole detection — YOLOv8-Nano (mAP 81.68%, Precision 82.33%), MPU6050 inertial sensor fusion, NEO-6M GPS mapping.</td>
+<td>Dual ESP32 pothole detection: YOLOv8-Nano (mAP 81.68%, Precision 82.33%), MPU6050 inertial sensor fusion, NEO-6M GPS mapping. Published with its own DOI.</td>
 <td>Python · YOLOv8 · ESP32-CAM · C++</td>
 <td align="center"><a href="https://github.com/SanTiwari07/PotHoleDetection">View</a></td>
 </tr>
 <tr>
-<td align="center"><strong>KrishiSaarthi</strong></td>
-<td>AgriTech advisory platform for rural Indian farmers — Top 3 at VOIS Innovation Marathon (National)</td>
+<td align="center"><strong>InsureRoute</strong></td>
+<td>Smart supply-chain intelligence and dynamic-pricing engine: AI-powered logistics intelligence with real-time weather monitoring, algorithmic rerouting, and actuarial risk hedging.</td>
+<td>Python · Actuarial Modeling</td>
+<td align="center"><a href="https://github.com/SanTiwari07/InsureRoute">View</a></td>
+</tr>
+<tr>
+<td align="center"><strong>KrishiSahAI</strong></td>
+<td>AgriTech advisory platform bringing AI to the Indian farmhouse, turning agriculture into a data-driven, sustainable, and more profitable enterprise for farmers.</td>
 <td>Flask · LangChain · Ollama · TensorFlow</td>
-<td align="center"><a href="https://github.com/SanTiwari07/KrishiSaarthi">View</a></td>
+<td align="center"><a href="https://github.com/SanTiwari07/KrishiSahAI">View</a></td>
 </tr>
 <tr>
 <td align="center"><strong>Smart Traffic Flow Analyzer</strong></td>
-<td>Real-time vehicle detection, counting and lane-level flow analysis</td>
-<td>Python · OpenCV · YOLO</td>
-<td align="center"><a href="https://github.com/SanTiwari07/Smart-Traffic-Flow-Analyzer">View</a></td>
+<td>Real-time traffic signal optimization: YOLOv8 and SORT-based vehicle detection dynamically adjusting signal timings based on live density, interfaced with ESP32.</td>
+<td>Python · OpenCV · YOLO · ESP32</td>
+<td align="center"><a href="https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer">View</a></td>
 </tr>
 <tr>
-<td align="center"><strong>Text2Reel Generator</strong></td>
-<td>Converts raw text into short-form video reels with AI voiceover and scene rendering</td>
-<td>Python · AI · Video Processing</td>
-<td align="center"><a href="https://github.com/SanTiwari07/Text2ReelGenerator">View</a></td>
-</tr>
-<tr>
-<td align="center"><strong>StockItUp</strong></td>
-<td>Live stock price dashboard with real-time market data and watchlist</td>
-<td>HTML · CSS · JS · Finnhub API</td>
-<td align="center"><a href="https://github.com/SanTiwari07/CodeZero-StockItUp">View</a></td>
-</tr>
-<tr>
-<td align="center"><strong>SmartPot</strong></td>
-<td>IoT plant health monitor with automated watering triggers via ESP32 and soil/humidity sensors</td>
-<td>ESP32 · Sensors · IoT</td>
-<td align="center"><a href="https://github.com/SanTiwari07/SmartPot">View</a></td>
+<td align="center"><strong>Portfolio</strong></td>
+<td>Personal portfolio site highlighting my journey as a web developer and student engineer, with clean design, smooth interactions, responsive layouts.</td>
+<td>TypeScript · React</td>
+<td align="center"><a href="https://github.com/SanTiwari07/Portfolio">View</a></td>
 </tr>
 </table>
 
