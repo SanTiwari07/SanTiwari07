@@ -139,12 +139,7 @@
 <td>Python · Frida · Androguard · YARA</td>
 <td align="center"><a href="https://github.com/SanTiwari07/Sudarshan">View</a></td>
 </tr>
-<tr>
-<td align="center"><strong>Bhaava</strong></td>
-<td>In-development AI-native Android app integrating the Gemini API with real-world sensor data, the current "building in public" project.</td>
-<td>Kotlin · Android · Gemini API</td>
-<td align="center"><a href="https://github.com/SanTiwari07/Bhaava">View</a></td>
-</tr>
+
 <tr>
 <td align="center"><strong>IPDS v2.0</strong></td>
 <td>Dual ESP32 pothole detection: YOLOv8-Nano (mAP 81.68%, Precision 82.33%), MPU6050 inertial sensor fusion, NEO-6M GPS mapping. Published with its own DOI.</td>
