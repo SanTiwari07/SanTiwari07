@@ -249,118 +249,80 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Flagship%20Project&fontSize=22&fontColor=ffffff" width="100%" />
-
-<div align="center">
-
-### SUDARSHAN
-**Autonomous Android Banking Malware Sandbox & Threat Intelligence Platform**  
-*Engineered for CyberShield Hackathon 2026 at IIT Hyderabad*
-
-<br>
-
-<a href="https://youtu.be/YG1-zQ9x-k8" target="_blank">
-  <img src="https://img.youtube.com/vi/YG1-zQ9x-k8/maxresdefault.jpg" width="90%" alt="Sudarshan Video Demo" style="max-width: 100%; border-radius: 8px;" />
-</a>
-
-<br><br>
-
-<a href="https://youtu.be/YG1-zQ9x-k8">
-  <img src="https://img.shields.io/badge/YouTube-Watch_Video_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://github.com/SanTiwari07/Sudarshan">
-  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/SanTiwari07/Sudarshan">
-  <img src="https://img.shields.io/badge/Frida-Dynamic_Instrumentation-FF6B00?style=for-the-badge" />
-</a>
-<a href="https://github.com/SanTiwari07/Sudarshan">
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-Automated_Mapping-2563eb?style=for-the-badge" />
-</a>
-
-<br><br>
-
-> *Your bank's app has a twin. It looks the same, asks for the same PIN, and empties accounts in 90 seconds. Sudarshan intercepts rogue APKs, executes Frida-instrumented dynamic runtime sandboxing, extracts C2 endpoints, and maps MITRE ATT&CK threat profiles in real-time.*
-
-</div>
-
-<br>
-
-<details open>
-<summary><b>Architecture & Engineering Breakdown</b></summary>
-<br>
-
-<table>
-<tr>
-<th align="center" width="220">Component</th>
-<th>Technical Implementation & Invariants</th>
-</tr>
-<tr>
-<td align="center"><strong>Decompile & Repair</strong></td>
-<td>Deconstructs APK binaries via Androguard, APKTool, and JADX. Features automated anti-analysis repair logic that detects and fixes deliberately malformed ZIP and AndroidManifest headers engineered by malware authors to crash standard reverse engineering tools.</td>
-</tr>
-<tr>
-<td align="center"><strong>Dynamic Frida Sandbox</strong></td>
-<td>Detonates suspicious samples inside an isolated Android runtime. Injects live Frida hooks across Accessibility Services, Overlay APIs (<code>SYSTEM_ALERT_WINDOW</code>), and SMS broadcast receivers. Uses an autonomous UI exploration agent to navigate prompts and bypass anti-emulation sleep evasion.</td>
-</tr>
-<tr>
-<td align="center"><strong>Threat Attribution & C2 Extraction</strong></td>
-<td>Monitors network traffic via an integrated <code>mitmproxy</code> sidecar to intercept live Command and Control (C2) domains, IP addresses, and encrypted beacons. Cross-references indicators of compromise against AlienVault OTX, AbuseIPDB, and VirusTotal to map MITRE ATT&CK threat techniques.</td>
-</tr>
-<tr>
-<td align="center"><strong>Deterministic Scoring</strong></td>
-<td>Computes the Banking Fraud & Cyber Threat Index (BFCI) using fixed mathematical rules (<code>bfci_scorer.py</code>). Unlike non-deterministic LLM classifiers, scores are fully auditable, strictly reproducible to the decimal, and hold up under institutional banking regulatory review.</td>
-</tr>
-<tr>
-<td align="center"><strong>AI Evidence Assistant</strong></td>
-<td>Built on the strict design invariant: <em>"The Engine Decides, The AI Explains."</em> The integrated Gemini RAG assistant answers forensic analyst queries strictly citing verified case artifacts without having the capability to alter the deterministic safety rating.</td>
-</tr>
-</table>
-
-</details>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Projects&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Featured%20Projects&fontSize=22&fontColor=ffffff" width="100%" />
 
 <br>
 
 <table width="100%">
-<tr>
-<th align="center">Project</th>
-<th align="center">Description</th>
-<th align="center">Stack</th>
-</tr>
-<tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/Aviro">Aviro</a></strong></td>
-<td>Invariant-governed AI Finance Controller architecture bridging probabilistic AI systems and deterministic accounting rules, built to guarantee zero unauthorized capital movement and zero false auto-matches.</td>
-<td>Python · Fintech · Rule Engine</td>
-</tr>
-<tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/PotHoleDetection">IPDS v2.0</a></strong></td>
-<td>Dual ESP32 pothole detection: YOLOv8-Nano (mAP 81.68%, Precision 82.33%), MPU6050 inertial sensor fusion, NEO-6M GPS mapping. Published research paper with its own DOI.</td>
-<td>Python · YOLOv8 · ESP32-CAM · C++</td>
-</tr>
-<tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/InsureRoute">InsureRoute</a></strong></td>
-<td>Smart supply-chain intelligence and dynamic-pricing engine: AI-powered logistics intelligence with real-time weather monitoring, algorithmic rerouting, and actuarial risk hedging.</td>
-<td>Python · Actuarial Modeling</td>
-</tr>
-<tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/KrishiSahAI">KrishiSahAI</a></strong></td>
-<td>AgriTech advisory platform bringing AI to the Indian farmhouse, turning agriculture into a data-driven, sustainable, and more profitable enterprise for farmers.</td>
-<td>Flask · LangChain · Ollama · TensorFlow</td>
-</tr>
-<tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer">Smart Traffic Flow Analyzer</a></strong></td>
-<td>Real-time traffic signal optimization: YOLOv8 and SORT-based vehicle detection dynamically adjusting signal timings based on live density, interfaced with ESP32.</td>
-<td>Python · OpenCV · YOLO · ESP32</td>
-</tr>
-<tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/Portfolio">Portfolio</a></strong></td>
-<td>Personal portfolio site highlighting my journey as a web developer and student engineer, with clean design, smooth interactions, responsive layouts.</td>
-<td>TypeScript · React</td>
-</tr>
+  <tr>
+    <td width="48%" align="center" valign="middle">
+      <a href="https://youtu.be/YG1-zQ9x-k8" target="_blank">
+        <img src="https://img.youtube.com/vi/YG1-zQ9x-k8/maxresdefault.jpg" width="100%" alt="Sudarshan Video Demo" />
+      </a>
+      <br><br>
+      <a href="https://youtu.be/YG1-zQ9x-k8"><img src="https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      <a href="https://github.com/SanTiwari07/Sudarshan"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="52%" valign="top">
+      <h3><a href="https://github.com/SanTiwari07/Sudarshan">SUDARSHAN</a> &nbsp; <sub><code>FLAGSHIP</code></sub></h3>
+      <p><strong>Autonomous Android Banking Malware Sandbox & Threat Intelligence</strong></p>
+      <p>Engineered for CyberShield Hackathon 2026 at IIT Hyderabad to combat zero-day banking trojans (Drinik, SOVA, Xenomorph) that hijack UPI accounts in under 90 seconds.</p>
+      <ul>
+        <li><strong>Dynamic Frida Sandbox</strong>: Automated UI exploration hooks sensitive Accessibility and SMS APIs.</li>
+        <li><strong>Deterministic Invariant</strong>: <em>The Engine Decides, The AI Explains</em> — mathematical auditability paired with a Gemini RAG investigator.</li>
+      </ul>
+      <p>
+        <code>Python</code> &middot; <code>Frida</code> &middot; <code>FastAPI</code> &middot; <code>React</code> &middot; <code>MITRE ATT&CK</code> &middot; <code>Androguard</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/SanTiwari07/Aviro">Aviro</a></h4>
+      <p><strong>Invariant-Governed AI Finance Controller</strong></p>
+      <p>Bridges probabilistic LLMs and deterministic accounting rules, guaranteeing zero unauthorized capital movement and zero false auto-matches.</p>
+      <p><code>Python</code> &middot; <code>FinTech</code> &middot; <code>FastAPI</code> &middot; <code>Rule Engine</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/SanTiwari07/PotHoleDetection">IPDS v2.0</a></h4>
+      <p><strong>Intelligent Pothole Detection System</strong></p>
+      <p>Dual ESP32 edge vision architecture with YOLOv8-Nano (81.7% mAP), MPU6050 sensor fusion, and GPS mapping. Published research paper with DOI.</p>
+      <p><code>YOLOv8</code> &middot; <code>ESP32-CAM</code> &middot; <code>C++</code> &middot; <code>Sensor Fusion</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/SanTiwari07/InsureRoute">InsureRoute</a></h4>
+      <p><strong>Smart Logistics Risk & Pricing Engine</strong></p>
+      <p>Supply-chain intelligence platform combining real-time weather telemetry, algorithmic dynamic rerouting, and actuarial risk hedging.</p>
+      <p><code>Python</code> &middot; <code>Actuarial Modeling</code> &middot; <code>Logistics AI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer">Smart Traffic Flow Analyzer</a></h4>
+      <p><strong>Adaptive Density Signal Control</strong></p>
+      <p>Real-time traffic signal optimization using YOLOv8 vehicle detection and SORT tracking, interfacing directly with ESP32 signal hardware.</p>
+      <p><code>Python</code> &middot; <code>YOLOv8</code> &middot; <code>OpenCV</code> &middot; <code>ESP32</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/SanTiwari07/KrishiSahAI">KrishiSahAI</a></h4>
+      <p><strong>AgriTech Decision Support Platform</strong></p>
+      <p>Localized agricultural intelligence bringing real-time crop disease diagnosis and soil health recommendations directly to Indian farmers.</p>
+      <p><code>Flask</code> &middot; <code>LangChain</code> &middot; <code>TensorFlow</code> &middot; <code>Ollama</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/SanTiwari07/Portfolio">Engineering Portfolio</a></h4>
+      <p><strong>Modern Systems & AI Showcase</strong></p>
+      <p>Personal portfolio site highlighting engineering journey, computer vision research, and production AI architectures with smooth interactions.</p>
+      <p><code>TypeScript</code> &middot; <code>React</code> &middot; <code>TailwindCSS</code></p>
+    </td>
+  </tr>
 </table>
 
 <br>
