@@ -251,7 +251,42 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Featured%20Projects&fontSize=22&fontColor=ffffff" width="100%" />
 
+<div align="center">
+
+### 🛡️ Flagship Project: SUDARSHAN
+**Autonomous Android Banking Malware Sandbox & Threat Intelligence Platform**  
+*Engineered for CyberShield Hackathon 2026 at IIT Hyderabad*
+
 <br>
+
+<a href="https://youtu.be/YG1-zQ9x-k8" target="_blank">
+  <img src="https://img.youtube.com/vi/YG1-zQ9x-k8/maxresdefault.jpg" width="90%" alt="Sudarshan Video Demo" style="max-width: 100%; border-radius: 8px;" />
+</a>
+
+<br><br>
+
+<a href="https://youtu.be/YG1-zQ9x-k8">
+  <img src="https://img.shields.io/badge/YouTube-Watch_Video_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://github.com/SanTiwari07/Sudarshan">
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/SanTiwari07/Sudarshan">
+  <img src="https://img.shields.io/badge/Frida-Dynamic_Instrumentation-FF6B00?style=for-the-badge" />
+</a>
+<a href="https://github.com/SanTiwari07/Sudarshan">
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-Automated_Mapping-2563eb?style=for-the-badge" />
+</a>
+
+<br><br>
+
+> *Your bank's app has a twin. It looks the same, asks for the same PIN, and empties accounts in 90 seconds. Sudarshan intercepts rogue APKs, executes Frida-instrumented dynamic runtime sandboxing, extracts C2 endpoints, and maps MITRE ATT&CK threat profiles in real-time.*
+
+</div>
+
+<br><br>
+
+### 🚀 Other Notable Architectures & Systems
 
 <table width="100%">
 <tr>
@@ -260,38 +295,32 @@
 <th align="center">Stack</th>
 </tr>
 <tr>
-<td align="center"><strong>Aviro</strong></td>
+<td align="center"><strong><a href="https://github.com/SanTiwari07/Aviro">Aviro</a></strong></td>
 <td>Invariant-governed AI Finance Controller architecture bridging probabilistic AI systems and deterministic accounting rules, built to guarantee zero unauthorized capital movement and zero false auto-matches.</td>
 <td>Python · Fintech · Rule Engine</td>
 </tr>
 <tr>
-<td align="center"><strong>Sudarshan</strong></td>
-<td>Android malware analysis and banking threat intelligence platform combining static analysis, Frida-based dynamic sandboxing, deterministic risk scoring, and MITRE ATT&CK mapping, built for CyberShield Hackathon 2026 at IIT Hyderabad.</td>
-<td>Python · Frida · Androguard · YARA</td>
-</tr>
-
-<tr>
-<td align="center"><strong>IPDS v2.0</strong></td>
-<td>Dual ESP32 pothole detection: YOLOv8-Nano (mAP 81.68%, Precision 82.33%), MPU6050 inertial sensor fusion, NEO-6M GPS mapping. Published with its own DOI.</td>
+<td align="center"><strong><a href="https://github.com/SanTiwari07/PotHoleDetection">IPDS v2.0</a></strong></td>
+<td>Dual ESP32 pothole detection: YOLOv8-Nano (mAP 81.68%, Precision 82.33%), MPU6050 inertial sensor fusion, NEO-6M GPS mapping. Published research paper with its own DOI.</td>
 <td>Python · YOLOv8 · ESP32-CAM · C++</td>
 </tr>
 <tr>
-<td align="center"><strong>InsureRoute</strong></td>
+<td align="center"><strong><a href="https://github.com/SanTiwari07/InsureRoute">InsureRoute</a></strong></td>
 <td>Smart supply-chain intelligence and dynamic-pricing engine: AI-powered logistics intelligence with real-time weather monitoring, algorithmic rerouting, and actuarial risk hedging.</td>
 <td>Python · Actuarial Modeling</td>
 </tr>
 <tr>
-<td align="center"><strong>KrishiSahAI</strong></td>
+<td align="center"><strong><a href="https://github.com/SanTiwari07/KrishiSahAI">KrishiSahAI</a></strong></td>
 <td>AgriTech advisory platform bringing AI to the Indian farmhouse, turning agriculture into a data-driven, sustainable, and more profitable enterprise for farmers.</td>
 <td>Flask · LangChain · Ollama · TensorFlow</td>
 </tr>
 <tr>
-<td align="center"><strong>Smart Traffic Flow Analyzer</strong></td>
+<td align="center"><strong><a href="https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer">Smart Traffic Flow Analyzer</a></strong></td>
 <td>Real-time traffic signal optimization: YOLOv8 and SORT-based vehicle detection dynamically adjusting signal timings based on live density, interfaced with ESP32.</td>
 <td>Python · OpenCV · YOLO · ESP32</td>
 </tr>
 <tr>
-<td align="center"><strong>Portfolio</strong></td>
+<td align="center"><strong><a href="https://github.com/SanTiwari07/Portfolio">Portfolio</a></strong></td>
 <td>Personal portfolio site highlighting my journey as a web developer and student engineer, with clean design, smooth interactions, responsive layouts.</td>
 <td>TypeScript · React</td>
 </tr>
