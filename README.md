@@ -249,11 +249,11 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Featured%20Projects&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Flagship%20Project&fontSize=22&fontColor=ffffff" width="100%" />
 
 <div align="center">
 
-### Flagship Project: SUDARSHAN
+### SUDARSHAN
 **Autonomous Android Banking Malware Sandbox & Threat Intelligence Platform**  
 *Engineered for CyberShield Hackathon 2026 at IIT Hyderabad*
 
@@ -321,7 +321,9 @@
 
 <br><br>
 
-### Notable Architectures & Systems
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Projects&fontSize=22&fontColor=ffffff" width="100%" />
+
+<br>
 
 <table width="100%">
 <tr>
