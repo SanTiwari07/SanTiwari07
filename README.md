@@ -125,50 +125,42 @@
 <th align="center">Project</th>
 <th align="center">Description</th>
 <th align="center">Stack</th>
-<th align="center">Link</th>
 </tr>
 <tr>
 <td align="center"><strong>Aviro</strong></td>
 <td>Invariant-governed AI Finance Controller architecture bridging probabilistic AI systems and deterministic accounting rules, built to guarantee zero unauthorized capital movement and zero false auto-matches.</td>
 <td>Python · Fintech · Rule Engine</td>
-<td align="center"><a href="https://github.com/SanTiwari07/Aviro">View</a></td>
 </tr>
 <tr>
 <td align="center"><strong>Sudarshan</strong></td>
 <td>Android malware analysis and banking threat intelligence platform combining static analysis, Frida-based dynamic sandboxing, deterministic risk scoring, and MITRE ATT&CK mapping, built for CyberShield Hackathon 2026 at IIT Hyderabad.</td>
 <td>Python · Frida · Androguard · YARA</td>
-<td align="center"><a href="https://github.com/SanTiwari07/Sudarshan">View</a></td>
 </tr>
 
 <tr>
 <td align="center"><strong>IPDS v2.0</strong></td>
 <td>Dual ESP32 pothole detection: YOLOv8-Nano (mAP 81.68%, Precision 82.33%), MPU6050 inertial sensor fusion, NEO-6M GPS mapping. Published with its own DOI.</td>
 <td>Python · YOLOv8 · ESP32-CAM · C++</td>
-<td align="center"><a href="https://github.com/SanTiwari07/PotHoleDetection">View</a></td>
 </tr>
 <tr>
 <td align="center"><strong>InsureRoute</strong></td>
 <td>Smart supply-chain intelligence and dynamic-pricing engine: AI-powered logistics intelligence with real-time weather monitoring, algorithmic rerouting, and actuarial risk hedging.</td>
 <td>Python · Actuarial Modeling</td>
-<td align="center"><a href="https://github.com/SanTiwari07/InsureRoute">View</a></td>
 </tr>
 <tr>
 <td align="center"><strong>KrishiSahAI</strong></td>
 <td>AgriTech advisory platform bringing AI to the Indian farmhouse, turning agriculture into a data-driven, sustainable, and more profitable enterprise for farmers.</td>
 <td>Flask · LangChain · Ollama · TensorFlow</td>
-<td align="center"><a href="https://github.com/SanTiwari07/KrishiSahAI">View</a></td>
 </tr>
 <tr>
 <td align="center"><strong>Smart Traffic Flow Analyzer</strong></td>
 <td>Real-time traffic signal optimization: YOLOv8 and SORT-based vehicle detection dynamically adjusting signal timings based on live density, interfaced with ESP32.</td>
 <td>Python · OpenCV · YOLO · ESP32</td>
-<td align="center"><a href="https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer">View</a></td>
 </tr>
 <tr>
 <td align="center"><strong>Portfolio</strong></td>
 <td>Personal portfolio site highlighting my journey as a web developer and student engineer, with clean design, smooth interactions, responsive layouts.</td>
 <td>TypeScript · React</td>
-<td align="center"><a href="https://github.com/SanTiwari07/Portfolio">View</a></td>
 </tr>
 </table>
 
