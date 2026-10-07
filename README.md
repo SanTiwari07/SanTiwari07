@@ -76,41 +76,176 @@
 
 **AI & Machine Learning**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=py" width="56" height="56" alt="Python" />
+      <br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="56" height="56" alt="TensorFlow" />
+      <br>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" alt="PyTorch" />
+      <br>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=opencv" width="56" height="56" alt="OpenCV" />
+      <br>
+      <sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="56" height="56" alt="Scikit-Learn" />
+      <br>
+      <sub><b>Scikit-Learn</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 **Backend & Databases**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,postgres,mysql,firebase&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="56" height="56" alt="FastAPI" />
+      <br>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Node.js" />
+      <br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=flask" width="56" height="56" alt="Flask" />
+      <br>
+      <sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL" />
+      <br>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="MySQL" />
+      <br>
+      <sub><b>MySQL (SQL)</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=firebase" width="56" height="56" alt="Firebase" />
+      <br>
+      <sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 **Cloud & DevOps**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,linux&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=aws" width="56" height="56" alt="AWS" />
+      <br>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=gcp" width="56" height="56" alt="GCP" />
+      <br>
+      <sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="56" height="56" alt="Cloudflare" />
+      <br>
+      <sub><b>Cloudflare</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=docker" width="56" height="56" alt="Docker" />
+      <br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=linux" width="56" height="56" alt="Linux" />
+      <br>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 **Mobile & Embedded**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,arduino,cpp,c&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="56" height="56" alt="Kotlin" />
+      <br>
+      <sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="56" height="56" alt="Android" />
+      <br>
+      <sub><b>Android</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=arduino" width="56" height="56" alt="Arduino" />
+      <br>
+      <sub><b>Arduino</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=cpp" width="56" height="56" alt="C++" />
+      <br>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=c" width="56" height="56" alt="C" />
+      <br>
+      <sub><b>C</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 **Frontend & Languages**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,java,git&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=react" width="56" height="56" alt="React" />
+      <br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=js" width="56" height="56" alt="JavaScript" />
+      <br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="TypeScript" />
+      <br>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=java" width="56" height="56" alt="Java" />
+      <br>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" />
+      <br>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
