@@ -284,6 +284,41 @@
 
 </div>
 
+<br>
+
+<details open>
+<summary><b>Architecture & Engineering Breakdown</b></summary>
+<br>
+
+<table>
+<tr>
+<th align="center" width="220">Component</th>
+<th>Technical Implementation & Invariants</th>
+</tr>
+<tr>
+<td align="center"><strong>Decompile & Repair</strong></td>
+<td>Deconstructs APK binaries via Androguard, APKTool, and JADX. Features automated anti-analysis repair logic that detects and fixes deliberately malformed ZIP and AndroidManifest headers engineered by malware authors to crash standard reverse engineering tools.</td>
+</tr>
+<tr>
+<td align="center"><strong>Dynamic Frida Sandbox</strong></td>
+<td>Detonates suspicious samples inside an isolated Android runtime. Injects live Frida hooks across Accessibility Services, Overlay APIs (<code>SYSTEM_ALERT_WINDOW</code>), and SMS broadcast receivers. Uses an autonomous UI exploration agent to navigate prompts and bypass anti-emulation sleep evasion.</td>
+</tr>
+<tr>
+<td align="center"><strong>Threat Attribution & C2 Extraction</strong></td>
+<td>Monitors network traffic via an integrated <code>mitmproxy</code> sidecar to intercept live Command and Control (C2) domains, IP addresses, and encrypted beacons. Cross-references indicators of compromise against AlienVault OTX, AbuseIPDB, and VirusTotal to map MITRE ATT&CK threat techniques.</td>
+</tr>
+<tr>
+<td align="center"><strong>Deterministic Scoring</strong></td>
+<td>Computes the Banking Fraud & Cyber Threat Index (BFCI) using fixed mathematical rules (<code>bfci_scorer.py</code>). Unlike non-deterministic LLM classifiers, scores are fully auditable, strictly reproducible to the decimal, and hold up under institutional banking regulatory review.</td>
+</tr>
+<tr>
+<td align="center"><strong>AI Evidence Assistant</strong></td>
+<td>Built on the strict design invariant: <em>"The Engine Decides, The AI Explains."</em> The integrated Gemini RAG assistant answers forensic analyst queries strictly citing verified case artifacts without having the capability to alter the deterministic safety rating.</td>
+</tr>
+</table>
+
+</details>
+
 <br><br>
 
 ### Notable Architectures & Systems
