@@ -2,23 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Sanskar%20Tiwari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Builder%20%7C%20ENTC%20%40%20PICT%20%2728%20%7C%20CGPA%209.31&descAlignY=58&descSize=17&descColor=d0eaff" width="100%" />
 
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=40&lines=AI+Systems+Builder+%C2%B7+Computer+Vision+%C2%B7+Embedded;TechFiesta+'26+International+Gold+%C2%B7+4x+Hackathon+Wins;LLM+Integration+%40+MindstriX+Technologies;Gemini+API+%C2%B7+Kotlin+%C2%B7+FastAPI+%C2%B7+YOLOv8+%C2%B7+ESP32" alt="Typing SVG" /></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&multiline=true&width=900&height=100&lines=TechFiesta+'26+International+Gold+%7C+4x+Hackathon+Wins;LLM+Integration+%40+MindstriX+Technologies+%7C+Building+in+Public;Gemini+API+%7C+Kotlin+%7C+FastAPI+%7C+YOLOv8+%7C+ESP32)](https://git.io/typing-svg)
+<br><br>
 
-<br>
-
-<a href="https://santiwari07.qzz.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/santiwari07">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/sanskarmakesstuff/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
-</a>
+<a href="https://santiwari07.qzz.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-0072ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/santiwari07"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://zenodo.org/records/20760578"><img src="https://img.shields.io/badge/Research-Read_Paper-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" /></a>
+<a href="https://leetcode.com/u/cmy7RSNHvA/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.instagram.com/sanskarmakesstuff/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br><br>
 
@@ -26,13 +18,25 @@
 
 <br>
 
-<p align="left">I'm a third-year Electronics and Telecommunication Engineering student at PICT, Pune (CGPA 9.31), currently working as a Software Engineer Intern at MindstriX Technologies LLP, where I focus on LLM integration, API development, and AI R&D. I build systems at the intersection of AI, mobile, and real-world impact, from production Gemini Vision pipelines to dual-microcontroller computer vision hardware.</p>
+<table>
+<tr>
+<td align="center" width="25%"><h2>9.31</h2><sub>CGPA · ENTC @ PICT Pune</sub></td>
+<td align="center" width="25%"><h2>4×</h2><sub>Hackathon podiums</sub></td>
+<td align="center" width="25%"><h2>1</h2><sub>Published research paper</sub></td>
+<td align="center" width="25%"><h2>600+</h2><sub>Teams outranked at VOIS 2.0</sub></td>
+</tr>
+</table>
 
-<p align="left">My interest lies in Computer Vision, Embedded Systems, and Intelligent Automation. I enjoy building real-world systems that combine software, hardware, and machine learning to solve practical problems, whether that's a pothole-detection rig fusing YOLOv8 with a dual ESP32 architecture, a dynamic traffic signal system that reads live vehicle density, or an AI governance layer for agricultural insurance claims. I believe the best way to learn engineering is by building, experimenting, debugging, and improving real systems, not just studying theory.</p>
+</div>
 
-<p align="left">That approach has paid off on the competition circuit: 1st place at TechFiesta '26 (International, Agriculture domain), 1st place in the Agritech domain at HackVenture 2K26, a Runner-Up finish at the Pune Agri International Hackathon, where our AI-powered agricultural governance platform was presented to and recognized by the Maharashtra CM, Agriculture Minister, and Higher & Technical Education Minister, and a Top 3 finish among 600+ teams at VOIS Innovation Marathon 2.0. My Intelligent Pothole Detection System work has also been published as peer-reviewed research with its own DOI.</p>
+- **Who:** Third-year Electronics & Telecommunication student at PICT, Pune, and **Software Engineer Intern at MindstriX Technologies**, working on LLM integration, API development and AI R&D.
+- **What I build:** Systems at the intersection of **Computer Vision, Embedded Systems and Intelligent Automation**: production Gemini Vision pipelines, a YOLOv8 + dual-ESP32 pothole-detection rig, density-aware traffic signals, and an AI governance layer for agricultural insurance claims.
+- **Recognition:** Our agri-governance platform was presented to and recognised by the **Maharashtra CM, Agriculture Minister and Higher & Technical Education Minister**.
+- **Currently building:** AI-native Android systems that combine the Gemini API with real-world sensor data.
 
-<p align="left"><strong>Currently building:</strong> AI-native Android systems integrating the Gemini API with real-world sensor data.</p>
+> *I learn engineering by building, breaking, debugging and shipping real systems, not just by studying theory.*
+
+<div align="center">
 
 <br>
 
@@ -40,33 +44,13 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<th align="center">Place</th>
-<th align="center">Competition</th>
-<th align="center">Scope</th>
-</tr>
-<tr>
-<td align="center"><strong>1st Place</strong></td>
-<td align="center">TechFiesta '26</td>
-<td align="center">International</td>
-</tr>
-<tr>
-<td align="center"><strong>1st Place</strong></td>
-<td align="center">HackVenture 2K26</td>
-<td align="center">National</td>
-</tr>
-<tr>
-<td align="center"><strong>Runner-Up</strong></td>
-<td align="center">Pune Agri International Hackathon</td>
-<td align="center">International</td>
-</tr>
-<tr>
-<td align="center"><strong>Top 3</strong></td>
-<td align="center">VOIS Innovation Marathon 2.0 (Vodafone Idea Foundation)</td>
-<td align="center">National</td>
-</tr>
-</table>
+| | Competition | Scope | Domain |
+|:---:|:---|:---:|:---:|
+| **1st Place** | **TechFiesta '26** | International | Agriculture |
+| **1st Place** | **HackVenture 2K26** | National | Agritech |
+| **Runner-Up** | **Pune Agri International Hackathon** | International | Agri-Governance |
+| **Top 3 / 600+** | **VOIS Innovation Marathon 2.0** (Vodafone Idea Foundation) | National | Open Innovation |
+| **Published** | **[IPDS: Real-Time Pothole Detection](https://zenodo.org/records/20760578)** (DOI 10.5281/zenodo.20760578) | Research | Computer Vision · IoT |
 
 <br>
 
@@ -74,292 +58,170 @@
 
 <br>
 
-**AI & Machine Learning**
-
 <table>
-  <tr>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=py" width="56" height="56" alt="Python" />
-      <br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="56" height="56" alt="TensorFlow" />
-      <br>
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" alt="PyTorch" />
-      <br>
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=opencv" width="56" height="56" alt="OpenCV" />
-      <br>
-      <sub><b>OpenCV</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="56" height="56" alt="Scikit-Learn" />
-      <br>
-      <sub><b>Scikit-Learn</b></sub>
-    </td>
-  </tr>
+<tr>
+<td align="right" width="190"><b>AI &amp; Machine Learning</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn&perline=8" height="44" /></td>
+</tr>
+<tr>
+<td align="right"><b>Backend &amp; Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,postgres,mysql,firebase&perline=8" height="44" /></td>
+</tr>
+<tr>
+<td align="right"><b>Cloud &amp; DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,linux&perline=8" height="44" /></td>
+</tr>
+<tr>
+<td align="right"><b>Mobile &amp; Embedded</b></td>
+<td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,arduino,cpp,c&perline=8" height="44" /></td>
+</tr>
+<tr>
+<td align="right"><b>Frontend &amp; Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,js,ts,java,git&perline=8" height="44" /></td>
+</tr>
 </table>
 
 <br>
-
-**Backend & Databases**
-
-<table>
-  <tr>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="56" height="56" alt="FastAPI" />
-      <br>
-      <sub><b>FastAPI</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Node.js" />
-      <br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=flask" width="56" height="56" alt="Flask" />
-      <br>
-      <sub><b>Flask</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL" />
-      <br>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="MySQL" />
-      <br>
-      <sub><b>MySQL (SQL)</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=firebase" width="56" height="56" alt="Firebase" />
-      <br>
-      <sub><b>Firebase</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-**Cloud & DevOps**
-
-<table>
-  <tr>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=aws" width="56" height="56" alt="AWS" />
-      <br>
-      <sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=gcp" width="56" height="56" alt="GCP" />
-      <br>
-      <sub><b>Google Cloud</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="56" height="56" alt="Cloudflare" />
-      <br>
-      <sub><b>Cloudflare</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=docker" width="56" height="56" alt="Docker" />
-      <br>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=linux" width="56" height="56" alt="Linux" />
-      <br>
-      <sub><b>Linux</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-**Mobile & Embedded**
-
-<table>
-  <tr>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="56" height="56" alt="Kotlin" />
-      <br>
-      <sub><b>Kotlin</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="56" height="56" alt="Android" />
-      <br>
-      <sub><b>Android</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=arduino" width="56" height="56" alt="Arduino" />
-      <br>
-      <sub><b>Arduino</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=cpp" width="56" height="56" alt="C++" />
-      <br>
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=c" width="56" height="56" alt="C" />
-      <br>
-      <sub><b>C</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-**Frontend & Languages**
-
-<table>
-  <tr>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=react" width="56" height="56" alt="React" />
-      <br>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=js" width="56" height="56" alt="JavaScript" />
-      <br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="TypeScript" />
-      <br>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=java" width="56" height="56" alt="Java" />
-      <br>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" />
-      <br>
-      <sub><b>Git</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Flagship%20Project&fontSize=22&fontColor=ffffff" width="100%" />
 
-<div align="center">
-
-### SUDARSHAN
-**Autonomous Android Banking Malware Sandbox & Threat Intelligence Platform**  
-*Engineered for CyberShield Hackathon 2026 at IIT Hyderabad*
-
 <br>
 
-<a href="https://youtu.be/YG1-zQ9x-k8" target="_blank">
-  <img src="https://img.youtube.com/vi/YG1-zQ9x-k8/maxresdefault.jpg" width="90%" alt="Sudarshan Video Demo" style="max-width: 100%; border-radius: 8px;" />
-</a>
+<a href="https://github.com/SanTiwari07/Sudarshan"><img src="assets/sudarshan-banner.svg" width="100%" alt="Sudarshan: Android banking malware sandbox and threat intelligence platform" /></a>
 
 <br><br>
 
-<a href="https://youtu.be/YG1-zQ9x-k8">
-  <img src="https://img.shields.io/badge/YouTube-Watch_Video_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://github.com/SanTiwari07/Sudarshan">
-  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/SanTiwari07/Sudarshan">
-  <img src="https://img.shields.io/badge/Frida-Dynamic_Instrumentation-FF6B00?style=for-the-badge" />
-</a>
-<a href="https://github.com/SanTiwari07/Sudarshan">
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-Automated_Mapping-2563eb?style=for-the-badge" />
-</a>
+<a href="https://youtu.be/YG1-zQ9x-k8"><img src="https://img.shields.io/badge/Watch-Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://github.com/SanTiwari07/Sudarshan"><img src="https://img.shields.io/badge/View-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Tests-2%2C841-16a34a?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-Mapped-2563eb?style=for-the-badge" />
 
 <br><br>
 
-> *Your bank's app has a twin. It looks the same, asks for the same PIN, and empties accounts in 90 seconds. Sudarshan intercepts rogue APKs, executes Frida-instrumented dynamic runtime sandboxing, extracts C2 endpoints, and maps MITRE ATT&CK threat profiles in real-time.*
+<table>
+<tr>
+<td width="55%" valign="middle">
+<a href="https://youtu.be/YG1-zQ9x-k8"><img src="https://img.youtube.com/vi/YG1-zQ9x-k8/maxresdefault.jpg" width="100%" alt="Watch the Sudarshan demo" /></a>
+<p align="center"><sub>Click to watch the full walkthrough</sub></p>
+</td>
+<td width="45%" valign="top">
+
+**The problem.** Banking trojans like *Hydra, Anubis, Xenomorph, SOVA* and *Octo* clone real banking apps, abuse Accessibility to read the screen, overlay fake logins and swallow OTPs. A fresh build scores **0/70 on VirusTotal**.
+
+**What Sudarshan does:**
+- Repairs and decompiles deliberately malformed APKs
+- Detonates them in a **Frida-instrumented sandbox**
+- Intercepts live **C2 traffic** via mitmproxy
+- Maps behaviour to **MITRE ATT&CK**
+- Produces a **deterministic, auditable 0–100 risk score**
+- A Gemini RAG analyst that *explains* the verdict but can never change it
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/SanTiwari07/Sudarshan/main/assets/screenshots/02_dashboard_cases.png" width="100%" /><br><sub><b>Upload &amp; 6-stage pipeline</b></sub></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/SanTiwari07/Sudarshan/main/assets/screenshots/06_threat_intel_hydra.png" width="100%" /><br><sub><b>Threat intel: Hydra match, 82% confidence</b></sub></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/SanTiwari07/Sudarshan/main/assets/screenshots/07_investigation_chat.png" width="100%" /><br><sub><b>Evidence-grounded AI analyst</b></sub></td>
+</tr>
+</table>
 
 </div>
 
+<details>
+<summary><b>Architecture &amp; engineering breakdown</b> (click to expand)</summary>
 <br>
 
-<details open>
-<summary><b>Architecture & Engineering Breakdown</b></summary>
+| Component | Technical implementation |
+|:---|:---|
+| **Decompile &amp; Repair** | Androguard, APKTool and JADX. Automated anti-analysis repair detects and fixes deliberately malformed ZIP and `AndroidManifest` headers built to crash standard reverse-engineering tools. |
+| **Dynamic Frida Sandbox** | Detonates samples in an isolated Android runtime with live Frida hooks on Accessibility Services, overlay APIs (`SYSTEM_ALERT_WINDOW`) and SMS receivers. An autonomous UI-exploration agent clicks through prompts and defeats anti-emulation sleep evasion. |
+| **C2 Extraction &amp; Attribution** | A `mitmproxy` sidecar captures live C2 domains, IPs and beacons, cross-referenced against AlienVault OTX, AbuseIPDB and VirusTotal, then mapped to MITRE ATT&amp;CK techniques. |
+| **Deterministic Scoring** | The Banking Fraud &amp; Cyber Threat Index (BFCI, `bfci_scorer.py`) uses fixed rules, so scores are auditable, reproducible to the decimal and defensible under regulatory review. |
+| **AI Evidence Assistant** | Design invariant: ***"The Engine Decides, The AI Explains."*** The Gemini RAG assistant cites verified case artifacts and cannot alter the safety rating. |
+
+</details>
+
+<div align="center">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=More%20Projects&fontSize=22&fontColor=ffffff" width="100%" />
+
 <br>
 
 <table>
 <tr>
-<th align="center" width="220">Component</th>
-<th>Technical Implementation & Invariants</th>
-</tr>
-<tr>
-<td align="center"><strong>Decompile & Repair</strong></td>
-<td>Deconstructs APK binaries via Androguard, APKTool, and JADX. Features automated anti-analysis repair logic that detects and fixes deliberately malformed ZIP and AndroidManifest headers engineered by malware authors to crash standard reverse engineering tools.</td>
-</tr>
-<tr>
-<td align="center"><strong>Dynamic Frida Sandbox</strong></td>
-<td>Detonates suspicious samples inside an isolated Android runtime. Injects live Frida hooks across Accessibility Services, Overlay APIs (<code>SYSTEM_ALERT_WINDOW</code>), and SMS broadcast receivers. Uses an autonomous UI exploration agent to navigate prompts and bypass anti-emulation sleep evasion.</td>
-</tr>
-<tr>
-<td align="center"><strong>Threat Attribution & C2 Extraction</strong></td>
-<td>Monitors network traffic via an integrated <code>mitmproxy</code> sidecar to intercept live Command and Control (C2) domains, IP addresses, and encrypted beacons. Cross-references indicators of compromise against AlienVault OTX, AbuseIPDB, and VirusTotal to map MITRE ATT&CK threat techniques.</td>
-</tr>
-<tr>
-<td align="center"><strong>Deterministic Scoring</strong></td>
-<td>Computes the Banking Fraud & Cyber Threat Index (BFCI) using fixed mathematical rules (<code>bfci_scorer.py</code>). Unlike non-deterministic LLM classifiers, scores are fully auditable, strictly reproducible to the decimal, and hold up under institutional banking regulatory review.</td>
-</tr>
-<tr>
-<td align="center"><strong>AI Evidence Assistant</strong></td>
-<td>Built on the strict design invariant: <em>"The Engine Decides, The AI Explains."</em> The integrated Gemini RAG assistant answers forensic analyst queries strictly citing verified case artifacts without having the capability to alter the deterministic safety rating.</td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-</details>
+### [IPDS v2.0](https://github.com/SanTiwari07/PotHoleDetection)
+<sub>**REAL-TIME POTHOLE DETECTION · PUBLISHED RESEARCH**</sub>
 
-<br><br>
+Dual-ESP32 rig that fuses YOLOv8 vision with MPU6050 vibration and NEO-6M GPS to produce geo-tagged, severity-rated pothole logs.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Projects&fontSize=22&fontColor=ffffff" width="100%" />
+**mAP@0.5 81.68%** · **Precision 82.33%** · [DOI ↗](https://zenodo.org/records/20760578)
+
+![](https://img.shields.io/badge/YOLOv8-111?style=flat-square) ![](https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Aviro](https://github.com/SanTiwari07/Aviro)
+<sub>**INVARIANT-GOVERNED AI FINANCE CONTROLLER**</sub>
+
+Bridges probabilistic AI with deterministic accounting rules, guaranteeing **zero unauthorised capital movement** and **zero false auto-matches**.
 
 <br>
 
-<table width="100%">
-<tr>
-<th align="center">Project</th>
-<th align="center">Description</th>
-<th align="center">Stack</th>
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Fintech-0f766e?style=flat-square) ![](https://img.shields.io/badge/Rule_Engine-4338ca?style=flat-square)
+
+</td>
 </tr>
 <tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/Aviro">Aviro</a></strong></td>
-<td>Invariant-governed AI Finance Controller architecture bridging probabilistic AI systems and deterministic accounting rules, built to guarantee zero unauthorized capital movement and zero false auto-matches.</td>
-<td>Python · Fintech · Rule Engine</td>
+<td width="50%" valign="top">
+
+### [KrishiSahAI](https://github.com/SanTiwari07/KrishiSahAI)
+<sub>**AGRITECH ADVISORY PLATFORM**</sub>
+
+Brings AI to the Indian farm, turning agriculture into a data-driven, sustainable and more profitable enterprise for farmers.
+
+![](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![](https://img.shields.io/badge/Ollama-222?style=flat-square&logo=ollama&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Smart Traffic Flow Analyzer](https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer)
+<sub>**ADAPTIVE TRAFFIC SIGNAL CONTROL**</sub>
+
+YOLOv8 + SORT vehicle tracking measures live lane density and retimes signals in real time through an ESP32 controller.
+
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![](https://img.shields.io/badge/YOLOv8-111?style=flat-square) ![](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+</td>
 </tr>
 <tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/PotHoleDetection">IPDS v2.0</a></strong></td>
-<td>Dual ESP32 pothole detection: YOLOv8-Nano (mAP 81.68%, Precision 82.33%), MPU6050 inertial sensor fusion, NEO-6M GPS mapping. Published research paper with its own DOI.</td>
-<td>Python · YOLOv8 · ESP32-CAM · C++</td>
-</tr>
-<tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/InsureRoute">InsureRoute</a></strong></td>
-<td>Smart supply-chain intelligence and dynamic-pricing engine: AI-powered logistics intelligence with real-time weather monitoring, algorithmic rerouting, and actuarial risk hedging.</td>
-<td>Python · Actuarial Modeling</td>
-</tr>
-<tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/KrishiSahAI">KrishiSahAI</a></strong></td>
-<td>AgriTech advisory platform bringing AI to the Indian farmhouse, turning agriculture into a data-driven, sustainable, and more profitable enterprise for farmers.</td>
-<td>Flask · LangChain · Ollama · TensorFlow</td>
-</tr>
-<tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer">Smart Traffic Flow Analyzer</a></strong></td>
-<td>Real-time traffic signal optimization: YOLOv8 and SORT-based vehicle detection dynamically adjusting signal timings based on live density, interfaced with ESP32.</td>
-<td>Python · OpenCV · YOLO · ESP32</td>
-</tr>
-<tr>
-<td align="center"><strong><a href="https://github.com/SanTiwari07/Portfolio">Portfolio</a></strong></td>
-<td>Personal portfolio site highlighting my journey as a web developer and student engineer, with clean design, smooth interactions, responsive layouts.</td>
-<td>TypeScript · React</td>
+<td width="50%" valign="top">
+
+### [InsureRoute](https://github.com/SanTiwari07/InsureRoute)
+<sub>**SUPPLY-CHAIN INTELLIGENCE &amp; DYNAMIC PRICING**</sub>
+
+AI logistics engine with real-time weather monitoring, algorithmic rerouting and actuarial risk hedging.
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Actuarial_Modeling-7c3aed?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [Portfolio](https://santiwari07.qzz.io/)
+<sub>**PERSONAL SITE · [SOURCE](https://github.com/SanTiwari07/Portfolio)**</sub>
+
+My journey as a student engineer: clean design, smooth interactions and fully responsive layouts.
+
+![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
 </tr>
 </table>
 
@@ -369,24 +231,20 @@
 
 <br>
 
-<table width="100%">
+<table>
 <tr>
-<th align="center">Role</th>
-<th align="center">Company</th>
-<th align="center">Duration</th>
-<th align="center">Focus Areas</th>
-</tr>
-<tr>
-<td align="center"><strong>Software Engineer Intern</strong></td>
-<td align="center">MindstriX Technologies LLP</td>
-<td align="center">March 2026 – Present (Remote)</td>
-<td align="center">LLM Integration · API Development · AI R&D</td>
+<td align="center" width="90"><img src="https://img.shields.io/badge/NOW-0072ff?style=for-the-badge" /></td>
+<td>
+<b>Software Engineer Intern</b> · MindstriX Technologies LLP<br>
+<sub>March 2026 – Present · Remote</sub><br>
+LLM Integration · API Development · AI R&amp;D
+</td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%20Stats&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%20Activity&fontSize=22&fontColor=ffffff" width="100%" />
 
 <br>
 
@@ -396,80 +254,18 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=github_dark" width="90%" />
 
-<br>
-
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/SanTiwari07?theme=dark&cardType=github&bg_color=0D1117&border_color=1f6feb&text_color=c9d1d9&title_color=2ea043&icon_color=2ea043" height="160" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Contribution%20Graph&fontSize=22&fontColor=ffffff" width="100%" />
-
-<br>
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/output/pacman-contribution-graph.svg" width="90%">
 </picture>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=0575E6" alt="Profile Views" />
-
-<br>
+<img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=0575E6&label=Profile+views" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%" />
 
 </div>
-
-<!-- achievement-step-01 -->
-
-<!-- achievement-step-02 -->
-
-<!-- achievement-step-03 -->
-
-<!-- achievement-step-04 -->
-
-<!-- achievement-step-05 -->
-
-<!-- achievement-step-06 -->
-
-<!-- achievement-step-07 -->
-
-<!-- achievement-step-08 -->
-
-<!-- achievement-step-09 -->
-
-<!-- achievement-step-10 -->
-
-<!-- achievement-step-11 -->
-
-<!-- achievement-step-12 -->
-
-<!-- achievement-step-13 -->
-
-<!-- achievement-step-14 -->
-
-<!-- achievement-step-15 -->
-
-<!-- achievement-step-16 -->
-
-<!-- verified-pair-step-01 -->
-
-<!-- verified-pair-step-02 -->
-
-<!-- verified-pair-step-03 -->
-
-<!-- verified-pair-step-04 -->
-
-<!-- verified-pair-step-05 -->
-
-<!-- verified-pair-step-06 -->
-
-<!-- verified-pair-step-07 -->
-
-<!-- verified-pair-step-08 -->
-
-<!-- verified-pair-step-09 -->
-
-<!-- verified-pair-step-10 -->
