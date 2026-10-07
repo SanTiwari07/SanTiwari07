@@ -90,6 +90,14 @@
 
 <br><br>
 
+**Cloud & DevOps**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,linux&theme=dark" />
+</a>
+
+<br><br>
+
 **Mobile & Embedded**
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
