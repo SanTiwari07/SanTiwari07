@@ -253,7 +253,7 @@
 
 <div align="center">
 
-### 🛡️ Flagship Project: SUDARSHAN
+### Flagship Project: SUDARSHAN
 **Autonomous Android Banking Malware Sandbox & Threat Intelligence Platform**  
 *Engineered for CyberShield Hackathon 2026 at IIT Hyderabad*
 
@@ -286,7 +286,7 @@
 
 <br><br>
 
-### 🚀 Other Notable Architectures & Systems
+### Notable Architectures & Systems
 
 <table width="100%">
 <tr>
