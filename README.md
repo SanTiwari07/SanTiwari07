@@ -254,7 +254,7 @@ AgriTech advisory platform that gives Indian farmers AI-backed, data-driven guid
 </td>
 <td width="50%" valign="top">
 
-### [Smart<wbr>Traffic<wbr>Flow<wbr>Analyzer](https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer)
+### [Smart Traffic Flow Analyzer](https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer)
 
 Counts vehicles with YOLOv8 and SORT and changes signal timings on the fly based on traffic density, with an ESP32 driving the signals.
 
