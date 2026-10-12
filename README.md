@@ -199,10 +199,12 @@ See it. Feel it. Map it.<br>
 
 <table>
 <tr>
-<td width="25%" valign="top" align="center"><b>Detect</b><br><sub>YOLOv8m fine-tuned for potholes, with mAP@0.5 of 81.7%.</sub></td>
-<td width="25%" valign="top" align="center"><b>Track</b><br><sub>SORT gives each pothole a stable ID, so it is counted once, not once per frame.</sub></td>
-<td width="25%" valign="top" align="center"><b>Feel</b><br><sub>An MPU6050 accelerometer burst confirms the impact before anything is logged.</sub></td>
-<td width="25%" valign="top" align="center"><b>Log</b><br><sub>CSV rows with GPS, RTC timestamp, a 0–1 severity score and an annotated video.</sub></td>
+<td width="50%" valign="top" align="center"><b>Detect</b><br><sub>YOLOv8m fine-tuned for potholes, with mAP@0.5 of 81.7%.</sub></td>
+<td width="50%" valign="top" align="center"><b>Track</b><br><sub>SORT gives each pothole a stable ID, so it is counted once, not once per frame.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><b>Feel</b><br><sub>An MPU6050 accelerometer burst confirms the impact before anything is logged.</sub></td>
+<td width="50%" valign="top" align="center"><b>Log</b><br><sub>CSV rows with GPS, RTC timestamp, a 0–1 severity score and an annotated video.</sub></td>
 </tr>
 </table>
 
@@ -252,7 +254,7 @@ AgriTech advisory platform that gives Indian farmers AI-backed, data-driven guid
 </td>
 <td width="50%" valign="top">
 
-### [SmartTrafficFlowAnalyzer](https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer)
+### [Smart<wbr>Traffic<wbr>Flow<wbr>Analyzer](https://github.com/SanTiwari07/SmartTrafficFlowAnalyzer)
 
 Counts vehicles with YOLOv8 and SORT and changes signal timings on the fly based on traffic density, with an ESP32 driving the signals.
 
