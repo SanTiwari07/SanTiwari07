@@ -234,7 +234,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:0b6fa4&height=45&section=header&text=Flagship%20Project&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:0b6fa4&height=45&section=header&text=Flagship%20Projects&fontSize=22&fontColor=ffffff" width="100%" />
 
 <br>
 
@@ -301,6 +301,94 @@ Android banking malware sandbox and threat intelligence platform<br>
 </table>
 
 </details>
+
+<div align="center">
+
+<br><br>
+
+<h2><a href="https://github.com/SanTiwari07/NarraReel">NarraReel</a></h2>
+
+Your script. Your voice. Captions people watch to the end.<br>
+<sub>Turns a script you wrote into a finished Reel, Short or YouTube video. Free AI voice or your cloned voice, cut to the exact second, with word-by-word animated captions.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3.10%2B-0b6fa4?style=for-the-badge&logo=python&logoColor=white&labelColor=05080d" alt="Python 3.10+" />
+<img src="https://img.shields.io/badge/No-API_Key-0b6fa4?style=for-the-badge&labelColor=05080d" alt="No API key" />
+<img src="https://img.shields.io/badge/Runs-Locally-0b6fa4?style=for-the-badge&labelColor=05080d" alt="Runs locally" />
+<img src="https://img.shields.io/badge/License-MIT-0b6fa4?style=for-the-badge&labelColor=05080d" alt="MIT license" />
+
+<br><br>
+
+<table>
+<tr>
+<td width="38%"><img src="https://raw.githubusercontent.com/SanTiwari07/NarraReel/main/docs/assets/demo.gif" width="100%" alt="NarraReel demo: each word is highlighted as it is spoken" /></td>
+<td width="62%"><img src="https://raw.githubusercontent.com/SanTiwari07/NarraReel/main/docs/assets/screenshot-home.png" width="100%" alt="NarraReel web app" /></td>
+</tr>
+<tr>
+<td align="center"><sub>Every word lights up as it is spoken</sub></td>
+<td align="center"><sub>Web app that runs in your browser, on your computer</sub></td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center"><b>Your voice, with energy</b><br><sub>Clone your voice from 30 seconds of audio, then set the delivery from calm to hype.</sub></td>
+<td width="33%" valign="top" align="center"><b>Exact length</b><br><sub>Ask for 60s and get 60s. Pauses between sentences stretch first, because that sounds natural.</sub></td>
+<td width="33%" valign="top" align="center"><b>Captions that hold attention</b><br><sub>Ten presets, 19 bundled fonts, and a transparent overlay export for your editor.</sub></td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://youtu.be/9aqRHCLlM5k"><img src="https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://github.com/SanTiwari07/NarraReel"><img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+<hr width="60%">
+
+<br><br>
+
+<h2><a href="https://github.com/SanTiwari07/PotHoleDetection">PotHoleDetection</a></h2>
+
+See it. Feel it. Map it.<br>
+<sub>A low-cost dual-ESP32 and YOLOv8 rig that detects potholes in real time and logs one only when the camera sees it and the car feels it, with GPS position and severity.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/mAP%400.5-81.7%25-0b6fa4?style=for-the-badge&labelColor=05080d" alt="mAP@0.5 81.7%" />
+<img src="https://img.shields.io/badge/Hardware-2x_ESP32-0b6fa4?style=for-the-badge&labelColor=05080d" alt="Two ESP32 boards" />
+<img src="https://img.shields.io/badge/Cost-under_%E2%82%B92%2C500-0b6fa4?style=for-the-badge&labelColor=05080d" alt="Under INR 2,500 per unit" />
+<img src="https://img.shields.io/badge/Paper-Zenodo-0b6fa4?style=for-the-badge&labelColor=05080d" alt="Published on Zenodo" />
+
+<br><br>
+
+<a href="https://github.com/SanTiwari07/PotHoleDetection"><img src="https://raw.githubusercontent.com/SanTiwari07/PotHoleDetection/main/assets/demo/demo.gif" width="100%" alt="PotHoleDetection detecting and tracking potholes with persistent IDs and severity scores" /></a>
+
+<br><br>
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><b>Detect</b><br><sub>YOLOv8m fine-tuned for potholes, with mAP@0.5 of 81.7%.</sub></td>
+<td width="25%" valign="top" align="center"><b>Track</b><br><sub>SORT gives each pothole a stable ID, so it is counted once, not once per frame.</sub></td>
+<td width="25%" valign="top" align="center"><b>Feel</b><br><sub>An MPU6050 accelerometer burst confirms the impact before anything is logged.</sub></td>
+<td width="25%" valign="top" align="center"><b>Log</b><br><sub>CSV rows with GPS, RTC timestamp, a 0–1 severity score and an annotated video.</sub></td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://santiwari07.github.io/PotHoleDetection/"><img src="https://img.shields.io/badge/Project-Website-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://zenodo.org/records/20760578"><img src="https://img.shields.io/badge/Read-Paper-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" /></a>
+<a href="https://colab.research.google.com/github/SanTiwari07/PotHoleDetection/blob/main/notebooks/quickstart.ipynb"><img src="https://img.shields.io/badge/Try_in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /></a>
+<a href="https://github.com/SanTiwari07/PotHoleDetection"><img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+</div>
 
 <div align="center">
 
