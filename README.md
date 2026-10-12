@@ -64,10 +64,9 @@
 
 <br>
 
-<h2><a href="https://github.com/SanTiwari07/Sudarshan">Sudarshan</a></h2>
+<a href="https://github.com/SanTiwari07/Sudarshan"><img src="assets/flagship/sudarshan.svg" width="100%" alt="Sudarshan" /></a>
 
-Android banking malware sandbox and threat intelligence platform<br>
-<sub>Built for CyberShield Hackathon 2026, IIT Hyderabad</sub>
+Android banking malware sandbox and threat intelligence platform
 
 <br><br>
 
@@ -133,7 +132,7 @@ Android banking malware sandbox and threat intelligence platform<br>
 
 <br><br>
 
-<h2><a href="https://github.com/SanTiwari07/NarraReel">NarraReel</a></h2>
+<a href="https://github.com/SanTiwari07/NarraReel"><img src="assets/flagship/narrareel.svg" width="100%" alt="NarraReel" /></a>
 
 Your script. Your voice. Captions people watch to the end.<br>
 <sub>Turns a script you wrote into a finished Reel, Short or YouTube video. Free AI voice or your cloned voice, cut to the exact second, with word-by-word animated captions.</sub>
@@ -179,7 +178,7 @@ Your script. Your voice. Captions people watch to the end.<br>
 
 <br><br>
 
-<h2><a href="https://github.com/SanTiwari07/PotHoleDetection">PotHoleDetection</a></h2>
+<a href="https://github.com/SanTiwari07/PotHoleDetection"><img src="assets/flagship/potholedetection.svg" width="100%" alt="PotHoleDetection" /></a>
 
 See it. Feel it. Map it.<br>
 <sub>A low-cost dual-ESP32 and YOLOv8 rig that detects potholes in real time and logs one only when the camera sees it and the car feels it, with GPS position and severity.</sub>
