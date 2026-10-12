@@ -149,20 +149,13 @@ Your script. Your voice. Captions people watch to the end.<br>
 <table>
 <tr>
 <td width="38%"><img src="https://raw.githubusercontent.com/SanTiwari07/NarraReel/main/docs/assets/demo.gif" width="100%" alt="NarraReel demo: each word is highlighted as it is spoken" /></td>
-<td width="62%"><img src="https://raw.githubusercontent.com/SanTiwari07/NarraReel/main/docs/assets/screenshot-home.png" width="100%" alt="NarraReel web app" /></td>
+<td width="62%"><img src="https://raw.githubusercontent.com/SanTiwari07/NarraReel/main/docs/assets/screenshot-home.png" width="100%" alt="NarraReel web app" /><br><br><img src="assets/flagship/narrareel-captions.webp" width="100%" alt="NarraReel caption setup: pick a platform and caption style, with a live preview of your own words" /></td>
 </tr>
 <tr>
 <td align="center"><sub>Every word lights up as it is spoken</sub></td>
 <td align="center"><sub>Web app that runs in your browser, on your computer</sub></td>
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-<img src="assets/flagship/narrareel-captions.webp" width="90%" alt="NarraReel caption setup: pick a platform and caption style, with a live preview of your own words" />
-<br><sub>Pick a platform and caption style, with a live preview of your own words</sub>
-</div>
 
 <br>
 
