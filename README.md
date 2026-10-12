@@ -159,6 +159,13 @@ Your script. Your voice. Captions people watch to the end.<br>
 
 <br>
 
+<div align="center">
+<img src="assets/flagship/narrareel-captions.webp" width="90%" alt="NarraReel caption setup: pick a platform and caption style, with a live preview of your own words" />
+<br><sub>Pick a platform and caption style, with a live preview of your own words</sub>
+</div>
+
+<br>
+
 <table>
 <tr>
 <td width="33%" valign="top" align="center"><b>Your voice, with energy</b><br><sub>Clone your voice from 30 seconds of audio, then set the delivery from calm to hype.</sub></td>
