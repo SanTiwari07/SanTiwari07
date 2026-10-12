@@ -270,15 +270,61 @@ Counts vehicles with YOLOv8 and SORT and changes signal timings on the fly based
 
 <br>
 
-<p><b>AI &amp; Machine Learning</b><br><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn" height="40" alt="Python, TensorFlow, PyTorch, OpenCV, scikit-learn" /></p>
+<h3>AI &amp; Machine Learning</h3>
 
-<p><b>Backend &amp; Databases</b><br><img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,postgres,mysql,firebase" height="40" alt="FastAPI, Node.js, Flask, PostgreSQL, MySQL, Firebase" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=py" width="64" height="64" alt="Python" title="Python" />&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" width="64" height="64" alt="TensorFlow" title="TensorFlow" />&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" width="64" height="64" alt="PyTorch" title="PyTorch" />&nbsp;
+<img src="https://skillicons.dev/icons?i=opencv" width="64" height="64" alt="OpenCV" title="OpenCV" />&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn" width="64" height="64" alt="scikit-learn" title="scikit-learn" />
+<br><sub>Python · TensorFlow · PyTorch · OpenCV · scikit-learn</sub>
+</p>
 
-<p><b>Cloud &amp; DevOps</b><br><img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,linux" height="40" alt="AWS, Google Cloud, Cloudflare, Docker, Linux" /></p>
+<h3>Backend &amp; Databases</h3>
 
-<p><b>Mobile &amp; Embedded</b><br><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,arduino,cpp,c" height="40" alt="Kotlin, Android, Arduino, C++, C" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" alt="FastAPI" title="FastAPI" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="64" height="64" alt="Node.js" title="Node.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" width="64" height="64" alt="Flask" title="Flask" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" width="64" height="64" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="MySQL" title="MySQL" />&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" width="64" height="64" alt="Firebase" title="Firebase" />
+<br><sub>FastAPI · Node.js · Flask · PostgreSQL · MySQL · Firebase</sub>
+</p>
 
-<p><b>Frontend &amp; Languages</b><br><img src="https://skillicons.dev/icons?i=react,js,ts,java,git" height="40" alt="React, JavaScript, TypeScript, Java, Git" /></p>
+<h3>Cloud &amp; DevOps</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" width="64" height="64" alt="AWS" title="AWS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=gcp" width="64" height="64" alt="Google Cloud" title="Google Cloud" />&nbsp;
+<img src="https://skillicons.dev/icons?i=cloudflare" width="64" height="64" alt="Cloudflare" title="Cloudflare" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="64" height="64" alt="Docker" title="Docker" />&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="64" height="64" alt="Linux" title="Linux" />
+<br><sub>AWS · Google Cloud · Cloudflare · Docker · Linux</sub>
+</p>
+
+<h3>Mobile &amp; Embedded</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin" width="64" height="64" alt="Kotlin" title="Kotlin" />&nbsp;
+<img src="https://skillicons.dev/icons?i=androidstudio" width="64" height="64" alt="Android" title="Android" />&nbsp;
+<img src="https://skillicons.dev/icons?i=arduino" width="64" height="64" alt="Arduino" title="Arduino" />&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="64" height="64" alt="C++" title="C++" />&nbsp;
+<img src="https://skillicons.dev/icons?i=c" width="64" height="64" alt="C" title="C" />
+<br><sub>Kotlin · Android · Arduino · C++ · C</sub>
+</p>
+
+<h3>Frontend &amp; Languages</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React" title="React" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" title="JavaScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" width="64" height="64" alt="TypeScript" title="TypeScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="64" height="64" alt="Java" title="Java" />&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" title="Git" />
+<br><sub>React · JavaScript · TypeScript · Java · Git</sub>
+</p>
 
 <br>
 
