@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080d,100:1a222c&height=220&section=header&text=Sanskar%20Tiwari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Builder%20%7C%20ENTC%20%40%20PICT%20%2728%20%7C%20CGPA%209.31&descAlignY=58&descSize=17&descColor=d0eaff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080d,50:0b3d5c,100:00d2ff&height=220&section=header&text=Sanskar%20Tiwari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Builder%20%7C%20ENTC%20%40%20PICT%20%2728%20%7C%20CGPA%209.31&descAlignY=58&descSize=17&descColor=d0eaff" width="100%" />
 
 <br>
 
@@ -18,7 +18,7 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:1a222c&height=45&section=header&text=About&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:0b6fa4&height=45&section=header&text=About&fontSize=22&fontColor=ffffff" width="100%" />
 
 <br>
 
@@ -32,7 +32,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:1a222c&height=45&section=header&text=Achievements&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:0b6fa4&height=45&section=header&text=Achievements&fontSize=22&fontColor=ffffff" width="100%" />
 
 <br>
 
@@ -57,7 +57,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:1a222c&height=45&section=header&text=Tech%20Stack&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:0b6fa4&height=45&section=header&text=Tech%20Stack&fontSize=22&fontColor=ffffff" width="100%" />
 
 <br>
 
@@ -234,7 +234,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:1a222c&height=45&section=header&text=Flagship%20Project&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:0b6fa4&height=45&section=header&text=Flagship%20Project&fontSize=22&fontColor=ffffff" width="100%" />
 
 <br>
 
@@ -306,7 +306,7 @@ Android banking malware sandbox and threat intelligence platform<br>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:1a222c&height=45&section=header&text=Projects&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:0b6fa4&height=45&section=header&text=Projects&fontSize=22&fontColor=ffffff" width="100%" />
 
 <br>
 
@@ -375,7 +375,7 @@ My personal site. Clean design, smooth interactions, responsive on every screen.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:1a222c&height=45&section=header&text=Experience&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:0b6fa4&height=45&section=header&text=Experience&fontSize=22&fontColor=ffffff" width="100%" />
 
 <br>
 
@@ -396,7 +396,7 @@ My personal site. Clean design, smooth interactions, responsive on every screen.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:1a222c&height=45&section=header&text=GitHub%20Activity&fontSize=22&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:0b6fa4&height=45&section=header&text=GitHub%20Activity&fontSize=22&fontColor=ffffff" width="100%" />
 
 <br>
 
@@ -416,10 +416,10 @@ My personal site. Clean design, smooth interactions, responsive on every screen.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=1a222c" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=00b4d8" alt="Profile Views" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a222c,100:05080d&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0b3d5c,100:05080d&height=120&section=footer" width="100%" />
 
 </div>
