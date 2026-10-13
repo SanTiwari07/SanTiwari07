@@ -330,7 +330,9 @@ Counts vehicles with YOLOv8 and SORT and changes signal timings on the fly based
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,100:0b6fa4&height=45&section=header&text=GitHub%20Activity&fontSize=22&fontColor=ffffff" width="100%" alt="GitHub Activity" />
 
 <br>
-
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SanTiwari07?theme=dark&cardType=github&bg_color=0D1117&border_color=1f6feb&text_color=c9d1d9&title_color=2ea043&icon_color=2ea043" height="150" />
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanTiwari07&theme=github">
@@ -350,6 +352,7 @@ Counts vehicles with YOLOv8 and SORT and changes signal timings on the fly based
 <img src="https://komarev.com/ghpvc/?username=SanTiwari07&style=flat-square&color=00b4d8" alt="Profile views" />
 
 <br>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0b3d5c,100:05080d&height=120&section=footer" width="100%" alt="" />
 
