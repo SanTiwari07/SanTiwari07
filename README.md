@@ -4,6 +4,8 @@
 
 <p><b>TechFiesta '26 International Gold</b> &nbsp;·&nbsp; 4 hackathon podiums &nbsp;·&nbsp; Research paper on Zenodo &nbsp;·&nbsp; LLM intern @ MindstriX</p>
 
+<a href="https://santiwari07.github.io/"><img src="https://img.shields.io/badge/All_Projects-santiwari07.github.io-e32636?style=for-the-badge&logo=github&logoColor=white" height="30" alt="All projects on santiwari07.github.io" /></a>
+&nbsp;
 <a href="https://santiwari07.qzz.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Portfolio" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/santiwari07"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
