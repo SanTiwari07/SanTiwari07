@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LeetCode Gold Wave Theme
 // @namespace    santiwari07
-// @version      2.1
+// @version      2.2
 // @description  Warm black-and-gold theme with a wave wallpaper for LeetCode (use LeetCode's dark mode)
 // @match        https://leetcode.com/*
 // @run-at       document-start
@@ -9,6 +9,7 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
+// @grant        GM_registerMenuCommand
 // @connect      raw.githubusercontent.com
 // @updateURL    https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/main/userscripts/leetcode-gold-wave.user.js
 // @downloadURL  https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/main/userscripts/leetcode-gold-wave.user.js
@@ -18,7 +19,8 @@
   'use strict';
 
   const WALLPAPER_URL =
-    'https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/main/assets/pewdiepie-bg.webp';
+    'https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/main/assets/background.webp';
+  const CHECK_EVERY_MS = 6 * 60 * 60 * 1000; // look for a replaced image every 6 hours
 
   GM_addStyle(`
     /* Wallpaper with a warm black-to-gold tint */
@@ -90,25 +92,60 @@
     document.documentElement.style.setProperty('--pdp-wallpaper', `url("${dataUrl}")`);
   }
 
-  // Use the saved copy so the image isn't downloaded on every page load
-  const cached = GM_getValue('wallpaper');
-  if (cached && cached.src === WALLPAPER_URL) {
-    applyWallpaper(cached.data);
-    return;
+  function readEtag(res) {
+    const match = /^etag:\s*(.+)$/im.exec(res.responseHeaders || '');
+    return match ? match[1].trim() : null;
   }
 
   // Download the image and embed it, which gets around image blocking
-  GM_xmlhttpRequest({
-    method: 'GET',
-    url: WALLPAPER_URL,
-    responseType: 'blob',
-    onload(res) {
-      const reader = new FileReader();
-      reader.onload = () => {
-        GM_setValue('wallpaper', { src: WALLPAPER_URL, data: reader.result });
-        applyWallpaper(reader.result);
-      };
-      reader.readAsDataURL(res.response);
-    },
-  });
+  function downloadWallpaper() {
+    GM_xmlhttpRequest({
+      method: 'GET',
+      url: WALLPAPER_URL,
+      responseType: 'blob',
+      onload(res) {
+        if (res.status !== 200) return;
+        const reader = new FileReader();
+        reader.onload = () => {
+          GM_setValue('wallpaper', {
+            src: WALLPAPER_URL,
+            etag: readEtag(res),
+            checked: Date.now(),
+            data: reader.result,
+          });
+          applyWallpaper(reader.result);
+        };
+        reader.readAsDataURL(res.response);
+      },
+    });
+  }
+
+  // Ask GitHub whether background.webp was replaced, without downloading it
+  function checkForNewWallpaper(cached) {
+    GM_xmlhttpRequest({
+      method: 'HEAD',
+      url: WALLPAPER_URL,
+      onload(res) {
+        if (res.status !== 200) return;
+        const etag = readEtag(res);
+        if (etag && etag === cached.etag) {
+          GM_setValue('wallpaper', { ...cached, checked: Date.now() });
+        } else {
+          downloadWallpaper();
+        }
+      },
+    });
+  }
+
+  GM_registerMenuCommand('Refresh wallpaper now', downloadWallpaper);
+
+  // Use the saved copy so the image isn't downloaded on every page load,
+  // and check for a replaced image every few hours
+  const cached = GM_getValue('wallpaper');
+  if (cached && cached.src === WALLPAPER_URL) {
+    applyWallpaper(cached.data);
+    if (Date.now() - (cached.checked || 0) > CHECK_EVERY_MS) checkForNewWallpaper(cached);
+  } else {
+    downloadWallpaper();
+  }
 })();
