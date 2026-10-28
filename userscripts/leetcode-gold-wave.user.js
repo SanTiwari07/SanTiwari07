@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LeetCode Gold Wave Theme
 // @namespace    santiwari07
-// @version      2.0
+// @version      2.1
 // @description  Warm black-and-gold theme with a wave wallpaper for LeetCode (use LeetCode's dark mode)
 // @match        https://leetcode.com/*
 // @run-at       document-start
@@ -31,11 +31,18 @@
 
     /* Page-level backgrounds become see-through so the wallpaper shows */
     body, #__next, #app,
-    [class*="bg-layer-bg"], [class*="bg-dark-layer-bg"] {
+    [class*="bg-layer-bg"], [class*="bg-dark-layer-bg"],
+    .flexlayout__layout, .flexlayout__tab {
       background: transparent !important;
     }
 
+    /* Problem page panels (Description, Code, Testcase) */
+    .flexlayout__tabset_tabbar_outer {
+      background-color: rgba(32, 22, 3, 0.82) !important;
+    }
+
     /* Panels and cards: dark amber glass with a thin gold edge */
+    .flexlayout__tabset,
     [class*="bg-dark-layer-1"], [class*="bg-layer-1"] {
       background-color: rgba(20, 14, 2, 0.74) !important;
       backdrop-filter: blur(6px);
@@ -54,8 +61,13 @@
     }
 
     /* Code editor: mostly solid so code stays readable */
+    .monaco-editor {
+      --vscode-editor-background: rgba(14, 10, 2, 0.92) !important;
+      --vscode-editorGutter-background: rgba(14, 10, 2, 0.92) !important;
+    }
     .monaco-editor, .monaco-editor-background,
-    .monaco-editor .margin, .monaco-editor .inputarea.ime-input {
+    .monaco-editor .margin, .monaco-editor .glyph-margin,
+    .monaco-editor .inputarea.ime-input {
       background-color: rgba(14, 10, 2, 0.92) !important;
     }
     .monaco-editor .current-line { border-color: rgba(250, 204, 21, 0.25) !important; }
