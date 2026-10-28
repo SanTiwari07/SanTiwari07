@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         LeetCode Dark Blue Wave Theme
+// @name         LeetCode Gold Wave Theme
 // @namespace    santiwari07
-// @version      1.0
-// @description  Dark navy theme with LeetCode yellow accents and a wave wallpaper (use LeetCode's dark mode)
+// @version      2.0
+// @description  Warm black-and-gold theme with a wave wallpaper for LeetCode (use LeetCode's dark mode)
 // @match        https://leetcode.com/*
 // @run-at       document-start
 // @grant        GM_addStyle
@@ -10,8 +10,8 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @connect      raw.githubusercontent.com
-// @updateURL    https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/main/userscripts/leetcode-dark-blue-wave.user.js
-// @downloadURL  https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/main/userscripts/leetcode-dark-blue-wave.user.js
+// @updateURL    https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/main/userscripts/leetcode-gold-wave.user.js
+// @downloadURL  https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/main/userscripts/leetcode-gold-wave.user.js
 // ==/UserScript==
 
 (function () {
@@ -21,12 +21,12 @@
     'https://raw.githubusercontent.com/SanTiwari07/SanTiwari07/main/assets/pewdiepie-bg.webp';
 
   GM_addStyle(`
-    /* Wallpaper with a navy-to-teal tint, same as the GitHub theme */
+    /* Wallpaper with a warm black-to-gold tint */
     html {
       background:
-        linear-gradient(135deg, rgba(2, 8, 20, 0.80) 0%, rgba(4, 30, 55, 0.70) 55%, rgba(8, 90, 120, 0.55) 100%),
+        linear-gradient(135deg, rgba(12, 8, 0, 0.82) 0%, rgba(40, 28, 0, 0.68) 55%, rgba(120, 85, 0, 0.50) 100%),
         var(--pdp-wallpaper, none) center / cover fixed,
-        #050b14 !important;
+        #0d0a02 !important;
     }
 
     /* Page-level backgrounds become see-through so the wallpaper shows */
@@ -35,41 +35,43 @@
       background: transparent !important;
     }
 
-    /* Panels and cards: frosted navy glass */
+    /* Panels and cards: dark amber glass with a thin gold edge */
     [class*="bg-dark-layer-1"], [class*="bg-layer-1"] {
-      background-color: rgba(4, 14, 28, 0.72) !important;
+      background-color: rgba(20, 14, 2, 0.74) !important;
       backdrop-filter: blur(6px);
+      border-color: rgba(250, 204, 21, 0.18) !important;
     }
     [class*="bg-dark-layer-2"], [class*="bg-layer-2"],
     [class*="bg-dark-layer-3"], [class*="bg-layer-3"] {
-      background-color: rgba(8, 26, 46, 0.78) !important;
+      background-color: rgba(38, 27, 4, 0.78) !important;
     }
 
     /* Top nav bar */
     nav, #navbar-root, #leetcode-navbar {
-      background: rgba(3, 10, 22, 0.88) !important;
+      background: rgba(14, 10, 2, 0.88) !important;
       backdrop-filter: blur(8px);
-      border-bottom: 1px solid #ffa116 !important;
+      border-bottom: 1px solid #facc15 !important;
     }
 
     /* Code editor: mostly solid so code stays readable */
     .monaco-editor, .monaco-editor-background,
     .monaco-editor .margin, .monaco-editor .inputarea.ime-input {
-      background-color: rgba(3, 12, 24, 0.90) !important;
+      background-color: rgba(14, 10, 2, 0.92) !important;
     }
+    .monaco-editor .current-line { border-color: rgba(250, 204, 21, 0.25) !important; }
 
-    /* LeetCode yellow as the accent on top of the navy theme */
-    [class*="flexlayout__splitter"]:hover { background-color: #ffa116 !important; }
-    [class*="flexlayout__tab_button--selected"] { box-shadow: inset 0 -2px 0 #ffa116 !important; }
-    ::selection { background: rgba(255, 161, 22, 0.35); }
+    /* Gold accents */
+    [class*="flexlayout__splitter"]:hover { background-color: #facc15 !important; }
+    [class*="flexlayout__tab_button--selected"] { box-shadow: inset 0 -2px 0 #facc15 !important; }
+    ::selection { background: rgba(250, 204, 21, 0.35); }
 
-    input, textarea { background-color: #07121f !important; }
-    input:focus, textarea:focus { outline: 1px solid #ffa116 !important; }
+    input, textarea { background-color: #140f03 !important; }
+    input:focus, textarea:focus { outline: 1px solid #facc15 !important; }
 
-    a:hover { color: #ffc01e !important; }
+    a:hover { color: #fde047 !important; }
 
-    /* Yellow glow around your avatar */
-    img[alt*="avatar" i] { box-shadow: 0 0 0 2px #ffa116, 0 0 14px rgba(255, 161, 22, 0.5); }
+    /* Gold glow around your avatar */
+    img[alt*="avatar" i] { box-shadow: 0 0 0 2px #facc15, 0 0 14px rgba(250, 204, 21, 0.5); }
   `);
 
   function applyWallpaper(dataUrl) {
