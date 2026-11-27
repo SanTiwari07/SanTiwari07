@@ -55,10 +55,6 @@
 <td><b>Learn AR with SPECS </a></b><br><sub>International · Snap Inc. · Nov 2026 · $500 team prize </sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Paper-0b6fa4?style=for-the-badge" alt="Paper" /></td>
-<td><b><a href="https://zenodo.org/records/20760578">Real-Time Pothole Detection Based on Vision-Dominant Sensor Fusion and Dual ESP32 Architecture</a></b><br><sub>Preprint on Zenodo · DOI 10.5281/zenodo.20760578</sub></td>
-</tr>
-<tr>
 <td align="center"><img src="https://img.shields.io/badge/Presented-0b6fa4?style=for-the-badge" alt="Presented" /></td>
 <td><b>Agri-governance platform</b><br><sub>Presented to the Maharashtra CM, Agriculture Minister and Higher &amp; Technical Education Minister</sub></td>
 </tr>
