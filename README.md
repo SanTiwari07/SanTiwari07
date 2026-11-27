@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080d,50:0b3d5c,100:00d2ff&height=220&section=header&text=Sanskar%20Tiwari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Builder%20%7C%20ENTC%20%40%20PICT%20%2728%20%7C%20CGPA%209.31&descAlignY=58&descSize=17&descColor=d0eaff" width="100%" alt="Sanskar Tiwari. AI Systems Builder, ENTC at PICT, class of 2028, CGPA 9.31" />
 
-<p><b>TechFiesta '26 International Gold</b> &nbsp;·&nbsp; 4 hackathon podiums &nbsp;·&nbsp; Research paper on Zenodo &nbsp;·&nbsp; LLM intern @ MindstriX</p>
+<p><b>TechFiesta '26 International Gold</b> &nbsp;·&nbsp; 5 hackathon podiums &nbsp;·&nbsp; Research paper on Zenodo &nbsp;·&nbsp; LLM intern @ MindstriX</p>
 
 <a href="https://santiwari07.github.io/"><img src="https://img.shields.io/badge/All_Projects-santiwari07.github.io-e32636?style=for-the-badge&logo=github&logoColor=white" height="30" alt="All projects on santiwari07.github.io" /></a>
 &nbsp;
@@ -49,6 +49,10 @@
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Top_3-B87333?style=for-the-badge" alt="Top 3" /></td>
 <td><b>VOIS Innovation Marathon 2.0</b><br><sub>National · Vodafone Idea Foundation · 600+ teams</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/3rd_Place-B87333?style=for-the-badge" alt="3rd place" /></td>
+<td><b><a href="https://devpost.com/software/acousticmirror-see-where-sound-goes-wrong-fix-it-yourself">Learn AR with SPECS (October 2026) · AcousticMirror</a></b><br><sub>Snap Inc. · Nov 2026 · $500 team prize · Built with <a href="https://github.com/Shambhavi500">Shambhavi Patil</a></sub></td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Paper-0b6fa4?style=for-the-badge" alt="Paper" /></td>
