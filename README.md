@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/3rd_Place-B87333?style=for-the-badge" alt="3rd place" /></td>
-<td><b><a href="https://devpost.com/software/acousticmirror-see-where-sound-goes-wrong-fix-it-yourself">Learn AR with SPECS (October 2026) · AcousticMirror</a></b><br><sub>Snap Inc. · Nov 2026 · $500 team prize · Built with <a href="https://github.com/Shambhavi500">Shambhavi Patil</a></sub></td>
+<td><b>Learn AR with SPECS </a></b><br><sub>International · Snap Inc. · Nov 2026 · $500 team prize </sub></td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Paper-0b6fa4?style=for-the-badge" alt="Paper" /></td>
